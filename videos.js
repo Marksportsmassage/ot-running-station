@@ -119,9 +119,18 @@ window.VIDEO_LINKS = {
     "note": ""
   },
   "20": {
-    "url": "",
-    "start": "",
-    "end": "",
-    "note": ""
+    "url": "https://youtu.be/EBPu21qecVk?si=kuMnOvdTpBWIEFbs",
+    "start": "00:02",
+    "end": "11:00",
+    "note": "整支影片都看（流程背起來）
+Effleurage
+Finger tip kneading
+Wringing
+Plucking
+Tapping
+Vibrations t o the exit foramina of the trigeminal nerve
+Vibrations over the sinuses
+Occipitofrontalis stretching to obtain scalp movement
+Clapping to the area of platysma"
   }
 };
