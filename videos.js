@@ -14,9 +14,9 @@ window.VIDEO_LINKS = {
     "note": ""
   },
   "2": {
-    "url": "",
-    "start": "",
-    "end": "",
+    "url": "https://www.youtube.com/watch?v=QSRSTNp6TyM&list=PL_kdRB8mNB8CMdViGQZTqt-JFr4Isc5n9&index=3",
+    "start": "06:46",
+    "end": "07:47",
     "note": ""
   },
   "3": {
