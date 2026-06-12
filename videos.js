@@ -23,7 +23,7 @@ window.VIDEO_LINKS = {
     "url": "https://youtu.be/uVeE7y3lk3A?si=HVy6W2Y6pXIHU7Iq",
     "start": "08:00",
     "end": "09:15",
-    "note": "來回做，骨盆要正，不要有代償"
+    "note": "來回做，骨盆要正，不要有代償,平順有節奏的來回5-10次"
   },
   "4": {
     "url": "https://youtu.be/uVeE7y3lk3A?si=HVy6W2Y6pXIHU7Iq",
