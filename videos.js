@@ -2,6 +2,8 @@
 // url：YouTube 單支影片連結，建議用「不公開」影片。
 // start / end：時間碼，例如 00:35 或 01:20。
 // note：影片中操作重點。
+// 
+// v8 修正：第20題 note 改成單行合法字串，避免 videos.js 因換行造成整個影片區壞掉。
 
 window.VIDEO_LINKS = {
   "1": {
@@ -113,24 +115,15 @@ window.VIDEO_LINKS = {
     "note": "瑞典式按摩法裡的壓力法，從遠端到近端，壓半圈放半圈，來回三圈。"
   },
   "19": {
-    "url": "https://youtu.be/WaS_1nNAKJU?si=Zj1PT1McJyKkDq2X",
+    "url": "https://youtu.be/WaS_1nNAKJU",
     "start": "23:00",
     "end": "26:00",
-    "note": "23:00-24:50(橫向)25:00-26:00(圓形)"
+    "note": "23:00～24:50 橫向；25:00～26:00 圓形。考題主要要做 DFM 橫向摩擦，考試以橫向為主。"
   },
   "20": {
-    "url": "https://youtu.be/EBPu21qecVk?si=kuMnOvdTpBWIEFbs",
+    "url": "https://youtu.be/EBPu21qecVk",
     "start": "00:02",
     "end": "11:00",
-    "note": "整支影片都看（流程背起來）
-Effleurage
-Finger tip kneading
-Wringing
-Plucking
-Tapping
-Vibrations t o the exit foramina of the trigeminal nerve
-Vibrations over the sinuses
-Occipitofrontalis stretching to obtain scalp movement
-Clapping to the area of platysma"
+    "note": "整支影片都看，流程背起來：Effleurage、Finger tip kneading、Wringing、Plucking、Tapping、Vibrations to the exit foramina of the trigeminal nerve、Vibrations over the sinuses、Occipitofrontalis stretching to obtain scalp movement、Clapping to the area of platysma。"
   }
 };
