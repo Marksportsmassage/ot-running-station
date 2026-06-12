@@ -38,10 +38,10 @@ window.VIDEO_LINKS = {
     "note": "扣住肩胛骨，做肩屈的動作，一次30s"
   },
   "6": {
-    "url": "",
-    "start": "",
-    "end": "",
-    "note": ""
+    "url": "https://www.youtube.com/watch?v=QSRSTNp6TyM&list=PL_kdRB8mNB8CMdViGQZTqt-JFr4Isc5n9&index=3",
+    "start": "04:14",
+    "end": "05:39",
+    "note": "手扣在二頭肌的位置，另一隻手稍微壓著肩胛骨並把手往上方移動，停留30s"
   },
   "7": {
     "url": "",
