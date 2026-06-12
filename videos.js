@@ -80,10 +80,10 @@ window.VIDEO_LINKS = {
     "note": "給與阻力向心收縮，回到伸展位6s，考試的時候做3組"
   },
   "13": {
-    "url": "",
-    "start": "",
-    "end": "",
-    "note": ""
+    "url": "https://youtu.be/6UJF0lAH8Ug?si=607yInvh-2-ZVL-v",
+    "start": "04:00",
+    "end": "06:10",
+    "note": "引導語：手放在頭的兩側，身體盡可能抬高，手不要伸直（prone on elbow），不會不舒服後再把手腕撐起來(prone on wrist)重複做10次"
   },
   "14": {
     "url": "",
