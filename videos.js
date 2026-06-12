@@ -8,16 +8,16 @@
 
 window.VIDEO_LINKS = {
   "1": {
-    "url": "",
-    "start": "",
-    "end": "",
-    "note": ""
+    "url": "https://www.youtube.com/watch?v=QSRSTNp6TyM&list=PL_kdRB8mNB8CMdViGQZTqt-JFr4Isc5n9&index=3",
+    "start": "01:30",
+    "end": "04:08",
+    "note": "僅只做關節活動"
   },
   "2": {
     "url": "https://www.youtube.com/watch?v=QSRSTNp6TyM&list=PL_kdRB8mNB8CMdViGQZTqt-JFr4Isc5n9&index=3",
     "start": "06:46",
     "end": "07:47",
-    "note": ""
+    "note": "僅只做關節活動"
   },
   "3": {
     "url": "",
