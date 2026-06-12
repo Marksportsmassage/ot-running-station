@@ -86,9 +86,9 @@ window.VIDEO_LINKS = {
     "note": "引導語：手放在頭的兩側，身體盡可能抬高，手不要伸直（prone on elbow），不會不舒服後再把手腕撐起來(prone on wrist)重複做10次"
   },
   "14": {
-    "url": "",
-    "start": "",
-    "end": "",
+    "url": "https://youtu.be/sP4aeT92z9Y?si=DOKFjKjwmwki6Sew",
+    "start": "02:04",
+    "end": "08:09",
     "note": ""
   },
   "15": {
