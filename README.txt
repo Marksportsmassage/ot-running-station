@@ -1,43 +1,12 @@
-操作治療跑台考試網頁 - 修正版
+操作治療跑台考試網頁 - v3
 
-檔案說明
-1. index.html
-   網頁主檔。上傳到 GitHub repository 根目錄。
+這版修正：
+1. 快速目錄整個方塊都可以點擊跳轉。
+2. 操作者提示改成中文，只有關鍵術語保留英文。
+3. 影片連結仍然統一填在 videos.js。
 
-2. data.js
-   20 題講稿資料。一般不用改。
+上傳到 GitHub：
+把 index.html、data.js、videos.js 上傳到 repository 根目錄覆蓋原檔，然後 Commit changes。
 
-3. videos.js
-   影片連結與時間碼填寫檔。你整理影片時主要改這個。
-
-4. 影片連結填寫表.csv
-   給你整理影片用的表格。可用 Excel / Google 試算表打開。
-
-影片填寫方式
-打開 videos.js，找到題號，例如：
-
-"1": {
-  "url": "",
-  "start": "",
-  "end": "",
-  "note": ""
-}
-
-改成：
-
-"1": {
-  "url": "https://youtu.be/xxxx",
-  "start": "00:10",
-  "end": "00:45",
-  "note": "肩膀往上舉 PROM"
-}
-
-更新 GitHub
-1. 到 GitHub repository
-2. Add file -> Upload files
-3. 上傳 index.html、data.js、videos.js 覆蓋原本檔案
-4. Commit changes
-5. GitHub Pages 會自動更新
-
-重要提醒
-YouTube 不公開影片只是不會被搜尋到；拿到連結的人仍可觀看與分享。
+整理影片：
+可先用「影片連結填寫表.csv」整理；整理完可把 CSV 傳回來，我幫你轉成 videos.js。

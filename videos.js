@@ -1,11 +1,10 @@
 // 影片連結填在這個檔案。
-// 填寫方式：
 // url：YouTube 單支影片連結，建議用「不公開」影片。
 // start / end：時間碼，例如 00:35 或 01:20。
-// note：影片中操作重點，可以先簡短寫。
+// note：影片中操作重點。
 //
 // 範例：
-// "1": { url: "https://youtu.be/xxxx", start: "00:10", end: "00:45", note: "肩膀往上舉 PROM" }
+// "1": { "url": "https://youtu.be/xxxx", "start": "00:10", "end": "00:45", "note": "肩膀往上舉 PROM" }
 
 window.VIDEO_LINKS = {
   "1": {

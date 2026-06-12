@@ -5,7 +5,7 @@ window.EXAM_ITEMS = [
     "lay_title": "肩膀往上舉的被動活動",
     "source": "四肢1 p.12",
     "script": "你好，我是你的物理治療師，我現在要幫你做的是肩膀往上舉的被動活動。\n請問你有沒有骨折、發炎腫痛、剛開完刀醫師說不能動，或一動就很痛？\n\n等一下請你放鬆，不要自己出力。\n我會一手扶你的手肘附近，另一手扶你的手腕，慢慢幫你把手往頭上方向舉起來。\n這個動作主要是幫你維持肩膀活動度，改善肩膀僵硬。\n如果過程中有痛、麻、暈或不舒服，請馬上跟我說。",
-    "operator": "Shoulder flexion PROM；一手支撐上臂或肘部，一手扶腕部，帶肩關節進入 flexion，避免聳肩代償。"
+    "operator": "操作重點：這題是肩關節被動活動（PROM）。一手扶手肘或上臂，另一手扶手腕，帶肩膀往上舉（flexion）。注意不要讓個案主動出力，也要避免聳肩代償。"
   },
   {
     "no": 2,
@@ -13,7 +13,7 @@ window.EXAM_ITEMS = [
     "lay_title": "肩膀往內轉的被動活動",
     "source": "四肢1 p.13",
     "script": "你好，我是你的物理治療師，我現在要幫你做的是肩膀往內轉的被動活動。\n請問你有沒有肩膀脫臼、骨折、發炎腫痛，或醫師說不能做肩膀旋轉？\n\n等一下請你放鬆，不要自己出力。\n我會讓你的手肘彎起來，固定你的手肘，再慢慢幫你的前臂往內轉。\n這個動作適合手往背後放困難、穿衣服卡卡、肩膀內轉不足的人。\n如果有夾痛、麻或不舒服，請馬上跟我說。",
-    "operator": "Shoulder internal rotation PROM；肩外展，肘屈曲約90度，一手穩定 elbow，另一手帶 forearm 做 internal rotation。"
+    "operator": "操作重點：這題是肩關節內轉被動活動（internal rotation PROM）。讓肩膀外展、手肘彎曲約90度，一手穩定手肘，另一手帶前臂往內轉。注意肩膀不要聳起或身體代償。"
   },
   {
     "no": 3,
@@ -21,7 +21,7 @@ window.EXAM_ITEMS = [
     "lay_title": "大腿往後抬的被動活動",
     "source": "四肢1 p.17",
     "script": "你好，我是你的物理治療師，我現在要幫你做的是大腿往後抬的被動活動。\n請問你有沒有髖關節開刀限制、骨折、發炎腫痛，或腰跟髖一動就很痛？\n\n等一下請你趴著放鬆，不要自己出力。\n我會一手固定你的骨盆，另一手扶你的大腿，慢慢把你的大腿往後抬起來。\n這個動作適合久坐、髖前側緊、走路步伐變小的人。\n如果腰痛、髖前側刺痛或不舒服，請馬上跟我說。",
-    "operator": "Hip extension PROM；prone position，一手 stabilize pelvis，一手帶 femur into hip extension，避免 lumbar extension 代償。"
+    "operator": "操作重點：這題是髖關節伸展被動活動（hip extension PROM）。個案採趴姿（prone），一手固定骨盆，另一手扶大腿往後抬。重點是避免腰椎代償伸展。"
   },
   {
     "no": 4,
@@ -29,7 +29,7 @@ window.EXAM_ITEMS = [
     "lay_title": "腳踝往上勾的被動活動",
     "source": "四肢1 p.18",
     "script": "你好，我是你的物理治療師，我現在要幫你做的是腳踝往上勾的被動活動。\n請問你有沒有剛扭傷很腫、骨折還沒排除、腳踝很不穩，或一動就很痛？\n\n等一下請你腳放鬆，不要自己出力。\n我會一手扶住你的腳踝，另一手包住你的腳掌和腳跟，慢慢幫你的腳往上勾。\n這個動作適合腳踝卡卡、蹲不下去、走路時腳踝不順的人。\n如果疼痛或卡住感變強，請馬上說。",
-    "operator": "Ankle dorsiflexion PROM；stabilize ankle，hold calcaneus/foot，帶 ankle dorsiflexion，可先 gentle traction。"
+    "operator": "操作重點：這題是踝關節背屈被動活動（ankle dorsiflexion PROM）。一手穩定腳踝，另一手扶腳跟與腳掌，慢慢讓腳往上勾。可先做輕微牽引（traction）讓關節放鬆。"
   },
   {
     "no": 5,
@@ -37,7 +37,7 @@ window.EXAM_ITEMS = [
     "lay_title": "改善手舉不高的肩膀伸展",
     "source": "四肢1 p.36",
     "script": "你好，我是你的物理治療師，我現在要幫你做的是改善手舉不高的肩膀伸展。\n請問你有沒有骨折、發炎腫痛、肩膀不穩，或伸展時很痛？\n\n等一下請你放鬆。\n我會固定你的肩膀和身體，慢慢把你的手往頭上方向舉到緊緊的位置，停留一下，不會用彈的方式拉。\n這個伸展適合手舉不高、肩膀僵硬、肩後側或背部緊繃的人。\n如果有刺痛、麻或夾住的痛，請馬上跟我說。",
-    "operator": "Passive stretching for limited shoulder flexion；stabilize scapula/trunk，move arm into shoulder flexion end range，sustained stretch，no ballistic stretch。"
+    "operator": "操作重點：這題是肩屈曲不足的被動伸展（passive stretching）。固定肩胛與軀幹，將手臂帶到肩屈曲末端（end range）後維持伸展。不要彈震式伸展（ballistic stretch）。"
   },
   {
     "no": 6,
@@ -45,7 +45,7 @@ window.EXAM_ITEMS = [
     "lay_title": "改善手往後伸不夠的肩膀伸展",
     "source": "四肢1 p.37",
     "script": "你好，我是你的物理治療師，我現在要幫你做的是改善手往後伸不夠的肩膀伸展。\n請問你有沒有肩膀前面不穩、最近脫臼、發炎腫痛，或肩前側很痛？\n\n等一下請你放鬆。\n我會固定你的肩膀和身體，慢慢把你的手臂往身體後方帶，讓肩膀前側被拉開。\n這個伸展適合手往後伸困難、胸前緊、肩前側緊的人。\n如果肩膀前面刺痛、麻或不舒服，請馬上說。",
-    "operator": "Passive stretching for limited shoulder extension / hyperextension；stabilize shoulder/trunk，move humerus into extension，avoid trunk flexion or shoulder hiking。"
+    "operator": "操作重點：這題是肩伸展不足的被動伸展（shoulder extension stretching）。固定肩膀與軀幹，手臂往後帶。注意不要讓身體前傾、聳肩或用腰背代償。"
   },
   {
     "no": 7,
@@ -53,7 +53,7 @@ window.EXAM_ITEMS = [
     "lay_title": "改善大腿往後伸不夠的伸展",
     "source": "四肢1 p.41–42",
     "script": "你好，我是你的物理治療師，我現在要幫你做的是改善大腿往後伸不夠的伸展。\n請問你有沒有髖關節開刀限制、骨折、髖部發炎腫痛，或腰往後會痛？\n\n等一下請你放鬆。\n我會固定你的骨盆，慢慢把你的大腿往後帶，主要會拉到髖關節前側。\n這個伸展適合久坐、髖前側緊、骨盆容易往前倒、走路步伐小的人。\n如果腰痛或髖前側刺痛，請馬上說。",
-    "operator": "Passive stretching for limited hip extension；stabilize pelvis，move femur into hip extension，stretch iliopsoas / hip flexors，avoid lumbar compensation。"
+    "operator": "操作重點：這題是髖伸展不足的被動伸展（hip extension stretching）。一手固定骨盆，另一手帶大腿往後。主要伸展髖屈肌群，尤其髂腰肌（iliopsoas），避免腰椎代償。"
   },
   {
     "no": 8,
@@ -61,7 +61,7 @@ window.EXAM_ITEMS = [
     "lay_title": "改善大腿往肚子方向彎不夠的伸展",
     "source": "四肢1 p.41",
     "script": "你好，我是你的物理治療師，我現在要幫你做的是改善大腿往肚子方向彎不夠的伸展。\n請問你有沒有髖關節開刀限制、骨折、嚴重下背痛，或膝蓋彎曲會痛？\n\n等一下請你仰躺放鬆。\n我會扶住你的大腿和小腿，慢慢把你的膝蓋往胸口方向帶。\n這個伸展適合髖關節彎曲不足、蹲下困難、穿鞋困難、臀部緊繃的人。\n如果髖前側夾痛、膝蓋痛或麻，請馬上告訴我。",
-    "operator": "Passive stretching for limited hip flexion；hip and knee flexion，bring knee toward chest，stretch gluteal region / hip extensors。"
+    "operator": "操作重點：這題是髖屈曲不足的被動伸展（hip flexion stretching）。扶住大腿與小腿，讓髖和膝一起彎曲，膝蓋往胸口方向帶。主要伸展臀部與髖伸肌群。"
   },
   {
     "no": 9,
@@ -69,7 +69,7 @@ window.EXAM_ITEMS = [
     "lay_title": "改善脖子往後收不夠的伸展",
     "source": "四肢1 p.45",
     "script": "你好，我是你的物理治療師，我現在要幫你做的是改善脖子往後收不夠的伸展。\n請問你有沒有脖子骨折或不穩、會暈、手麻變嚴重，或醫師說不能拉脖子？\n\n等一下請你放鬆。\n我會很輕地扶著你的頭，慢慢帶你做像「下巴微微往內收」的動作，不會用力扳你的脖子。\n這個動作適合頭往前、後頸很緊、脖子不好往後收的人。\n如果有暈、噁心、頭痛或手麻加重，請馬上說。",
-    "operator": "Cervical retraction / upper cervical flexion stretching；gentle chin-tuck / upper cervical flexion，stretch suboccipital muscles，avoid aggressive cervical traction。"
+    "operator": "操作重點：這題是頸椎後縮與上頸椎伸展（cervical retraction / upper cervical flexion）。動作像輕輕收下巴（chin tuck），主要放鬆枕下肌群（suboccipital muscles）。不可用力扳脖子。"
   },
   {
     "no": 10,
@@ -77,7 +77,7 @@ window.EXAM_ITEMS = [
     "lay_title": "改善腰往前彎不夠的伸展",
     "source": "四肢1 p.45",
     "script": "你好，我是你的物理治療師，我現在要幫你做的是改善腰往前彎不夠的伸展。\n請問你有沒有椎間盤症狀加重、腳麻往下跑、骨折，或彎腰會更痛？\n\n等一下請你仰躺放鬆。\n我會幫你把雙膝慢慢往胸口方向帶，讓腰背慢慢被拉開。\n這個伸展適合腰背緊、腰椎彎曲不足、下背活動卡卡的人。\n如果疼痛往腿部擴散、麻變嚴重，請馬上告訴我。",
-    "operator": "Passive stretching for lumbar flexion；double knees to chest，posterior pelvic tilt，lumbar flexion stretch。"
+    "operator": "操作重點：這題是腰椎屈曲伸展（lumbar flexion stretching）。雙膝往胸口帶（double knees to chest），讓骨盆後傾（posterior pelvic tilt），使腰椎進入屈曲。"
   },
   {
     "no": 11,
@@ -85,7 +85,7 @@ window.EXAM_ITEMS = [
     "lay_title": "胸前肌肉的固定放鬆伸展",
     "source": "四肢1 p.33–34",
     "script": "你好，我是你的物理治療師，我現在要幫你做的是胸前肌肉的固定放鬆伸展。\n請問你有沒有肩膀不穩、最近脫臼、胸肩急性疼痛，或手麻會加重？\n\n等一下我會先把你的手帶到胸前覺得緊的位置。\n接著請你用一點點力，像要把手往內夾胸一樣推我的手，但是不要真的動。\n維持大約5秒，然後放鬆，我再幫你多伸展一點。\n這個方法適合胸前緊、圓肩、肩膀打不開的人。\n如果肩前側痛、麻或覺得不穩，請馬上說。",
-    "operator": "Pectoralis major PNF Hold-Relax；bring pec major to stretch position，isometric contraction against resistance，hold 5–10 sec，relax，move to new range。"
+    "operator": "操作重點：這題是胸大肌本體感覺神經肌肉促進伸展（PNF Hold-Relax）。先帶到胸大肌緊繃位置，請個案做等長收縮（isometric contraction）約5秒，放鬆後再帶到新的伸展角度。"
   },
   {
     "no": 12,
@@ -93,7 +93,7 @@ window.EXAM_ITEMS = [
     "lay_title": "胸前肌肉出力後再放鬆的伸展",
     "source": "四肢1 p.33–34",
     "script": "你好，我是你的物理治療師，我現在要幫你做的是胸前肌肉出力後再放鬆的伸展。\n請問你有沒有肩膀不穩、發炎腫痛、最近胸肩拉傷，或肩膀夾痛？\n\n等一下我會先把你的手帶到胸前覺得緊的位置。\n接著請你往內夾胸的方向出一點力推我，大約5秒後放鬆，我再慢慢幫你伸展到新的角度。\n這個方法適合胸大肌緊、圓肩、肩膀活動打不開的人。\n如果痛、麻或肩膀不穩，請馬上跟我說。",
-    "operator": "Pectoralis major PNF Contract-Relax；isotonic or resisted contraction of target muscle，then relaxation，move into increased stretch range。"
+    "operator": "操作重點：這題是胸大肌本體感覺神經肌肉促進伸展（PNF Contract-Relax）。先帶到伸展位置，請個案往夾胸方向出力收縮，放鬆後再增加伸展角度。"
   },
   {
     "no": 13,
@@ -101,7 +101,7 @@ window.EXAM_ITEMS = [
     "lay_title": "下背痛常用的趴姿伸展運動",
     "source": "四肢1 p.48–49",
     "script": "你好，我是你的物理治療師，我現在要教你做的是下背痛常用的趴姿伸展運動。\n請問你有沒有大小便失控、會陰麻木、腳越來越沒力，或做這個動作疼痛會往腳跑更遠？\n\n第一步請你先趴著放鬆。\n如果可以，再用手肘撐起來。\n如果症狀沒有變嚴重，再用雙手慢慢把上半身撐起來，骨盆盡量留在床上，停一下再慢慢回來。\n這個運動適合做完後腿麻變少、疼痛比較集中回腰部的人。\n如果疼痛往小腿或腳跑、麻變嚴重或腳無力，請立刻停止。",
-    "operator": "McKenzie extension exercise for posterior disc protrusion；prone lying → prone on elbows → prone press-up，observe centralization/peripheralization。"
+    "operator": "操作重點：這題是麥肯基伸展運動（McKenzie extension）。流程為趴姿、手肘撐起、雙手撐起。觀察症狀是否往腰部集中（centralization），若疼痛往腳擴散（peripheralization）要停止。"
   },
   {
     "no": 14,
@@ -109,7 +109,7 @@ window.EXAM_ITEMS = [
     "lay_title": "改善右肩往外轉受限的關節放鬆手法",
     "source": "四肢1 p.58–60、p.64–66；四肢2 p.66",
     "script": "你好，我是你的物理治療師，我現在要幫你做的是改善右肩往外轉受限的關節放鬆手法。\n請問你有沒有急性發炎、最近骨折或脫臼、肩膀很不穩，或醫師說不能動肩膀？\n\n因為你肩膀有疼痛，我會先用很輕的方式幫關節放鬆。\n接著我會固定你的肩膀，讓你放鬆，再輕輕把上臂骨頭往前滑動，幫助肩膀往外轉的角度。\n這個手法適合冰凍肩、肩膀外轉受限、肩關節囊緊繃的人。\n如果有尖銳痛、麻或肌肉很緊張，請馬上說。",
-    "operator": "GH joint mobilization for limited external rotation，ventral glide；pain relief Grade I–II traction/mobilization first；then GH ventral glide for external rotation restriction。"
+    "operator": "操作重點：這題是肩盂肱關節鬆動（GH joint mobilization）。疼痛為主先做低等級放鬆（Grade I-II）或牽引（traction）；外轉受限時做前向滑動（ventral glide）。"
   },
   {
     "no": 15,
@@ -117,7 +117,7 @@ window.EXAM_ITEMS = [
     "lay_title": "改善左膝彎曲角度的關節放鬆手法",
     "source": "四肢2 p.95–96",
     "script": "你好，我是你的物理治療師，我現在要幫你做的是改善左膝彎曲角度的關節放鬆手法。\n請問你有沒有傷口感染、醫師限制彎曲角度、膝蓋紅腫熱痛，或小腿腫脹疼痛？\n\n你現在是手術後四週，所以我會用比較保守的力量。\n我會先輕輕拉開膝關節，減少壓力，再固定你的大腿，慢慢把小腿骨往後滑，幫助膝蓋彎曲。\n這個手法適合術後膝蓋彎曲不足、膝關節僵硬的人。\n如果膝蓋不穩、痛變強或腫脹感增加，請馬上說。",
-    "operator": "Knee mobilization after ACL reconstruction，posterior glide for flexion；gentle knee traction；tibial posterior glide to improve knee flexion；avoid excessive anterior glide after ACL reconstruction。"
+    "operator": "操作重點：這題是前十字韌帶術後膝關節鬆動（ACL reconstruction）。先做輕微牽引（traction），再做脛骨後向滑動（posterior glide）幫助膝屈曲。避免過多前向滑動（anterior glide）。"
   },
   {
     "no": 16,
@@ -125,7 +125,7 @@ window.EXAM_ITEMS = [
     "lay_title": "改善右腳踝往上勾卡卡的關節放鬆手法",
     "source": "四肢2 p.103–104",
     "script": "你好，我是你的物理治療師，我現在要幫你做的是改善右腳踝往上勾卡卡的關節放鬆手法。\n請問你有沒有骨折還沒排除、韌帶嚴重撕裂、腳踝紅腫熱痛，或完全不能踩地？\n\n等一下請你腳放鬆。\n我會先固定你的小腿，輕輕拉開腳踝，再讓腳踝裡面的骨頭往後滑，幫助腳踝比較好往上勾。\n這個手法適合扭傷後腳踝卡卡、蹲下困難、走路腳踝活動不順的人。\n如果疼痛變強、腫脹或覺得不穩，請馬上說。",
-    "operator": "Talocrural joint mobilization for limited dorsiflexion；talocrural traction，posterior glide of talus for dorsiflexion restriction。"
+    "operator": "操作重點：這題是距小腿關節鬆動（talocrural joint mobilization）。先固定小腿並做牽引（traction），再讓距骨往後滑（posterior glide of talus），用來改善背屈（dorsiflexion）。"
   },
   {
     "no": 17,
@@ -133,7 +133,7 @@ window.EXAM_ITEMS = [
     "lay_title": "改善手腕往下彎不夠的關節放鬆手法",
     "source": "四肢2 p.80",
     "script": "你好，我是你的物理治療師，我現在要幫你做的是改善手腕往下彎不夠的關節放鬆手法。\n請問你有沒有骨折還沒癒合、手術傷口沒好、手腕紅腫熱痛，或醫師說不能做關節活動？\n\n等一下請你手放鬆。\n我會一手固定你的前臂，另一手扶住手腕附近的小骨頭，輕輕往手背方向滑動，幫助手腕往下彎的角度。\n這個手法適合術後固定造成手腕僵硬、手腕往下彎不夠的人。\n如果骨折處痛、麻或刺，請馬上告訴我。",
-    "operator": "Wrist mobilization，dorsal glide for limited palmar flexion；stabilize distal radius/ulna，dorsal glide of proximal carpal row to improve wrist palmar flexion。"
+    "operator": "操作重點：這題是腕關節屈曲受限的鬆動。固定前臂遠端，對近端腕骨列做背側滑動（dorsal glide），幫助掌屈（palmar flexion）。術後要確認骨折癒合與醫囑。"
   },
   {
     "no": 18,
@@ -141,7 +141,7 @@ window.EXAM_ITEMS = [
     "lay_title": "背部揉捏放鬆按摩",
     "source": "四肢2 p.121–123",
     "script": "你好，我是你的物理治療師，我現在要幫你做的是背部揉捏放鬆按摩。\n請問你有沒有急性拉傷、皮膚傷口、感染、血栓或按壓會很痛？\n\n等一下請你趴著放鬆。\n我會避開你的脊椎骨頭，用手掌和手指把背部肌肉輕輕抓起來、揉一揉、再放鬆。現在我會來回做三次。\n這個手法適合運動後背部疲勞、肌肉緊繃、想放鬆的人。\n如果太痛、太重或有麻感，請立刻跟我說。",
-    "operator": "Swedish massage - kneading；avoid spinous process，use palmar/finger kneading，lift-compress-release soft tissue，repeat 3 passes。"
+    "operator": "操作重點：這題是瑞典式按摩的揉捏法（Swedish massage - kneading）。避開脊椎骨突，用手掌或手指將肌肉抓起、擠壓、揉捏、放鬆，來回三次。"
   },
   {
     "no": 19,
@@ -149,7 +149,7 @@ window.EXAM_ITEMS = [
     "lay_title": "膝蓋手術後疤痕的橫向按摩",
     "source": "四肢2 p.137–140",
     "script": "你好，我是你的物理治療師，我現在要幫你做的是膝蓋手術後疤痕的橫向按摩。\n請問你有沒有傷口還沒癒合、紅腫熱痛、皮膚破皮流血，或醫師說不能按摩疤痕？\n\n我會先確認你的傷口已經完全癒合。\n接著我會用手指放在疤痕比較緊的位置，做小範圍、左右方向的摩擦按摩，幫助疤痕比較不緊。\n這個手法適合疤痕緊繃、沾黏、活動時有拉扯感的人。\n如果刺痛、破皮、發熱或疼痛變強，請馬上說。",
-    "operator": "Deep transverse friction massage，DFM；finger pad on scar adhesion，move skin with finger，transverse direction to scar/fiber，no excessive lubricant。"
+    "operator": "操作重點：這題是深層橫向摩擦按摩（DFM / deep transverse friction）。用手指腹固定在疤痕沾黏處，手指與皮膚一起左右小範圍移動。不要大量使用潤滑介質。"
   },
   {
     "no": 20,
@@ -157,6 +157,6 @@ window.EXAM_ITEMS = [
     "lay_title": "左側臉部放鬆與刺激按摩",
     "source": "四肢2 p.146–152",
     "script": "你好，我是你的物理治療師，我現在要幫你做的是左側臉部放鬆與刺激按摩。\n請問你臉上有沒有傷口、皮膚感染發炎、近期臉部手術，或按壓會痛？\n\n等一下請你放鬆。\n我會用手指腹輕輕按摩你的臉，不會重壓，也會避開喉嚨和脖子前面。\n我會先輕輕滑動，再做小範圍揉捏、輕拍或震動刺激。\n這個手法適合顏面神經受損後臉部比較無力、表情控制比較差、局部循環差的人。\n如果疼痛、暈、皮膚不舒服或眼睛乾澀，請馬上說。",
-    "operator": "Facial massage for facial nerve palsy；finger pads only，avoid throat/thyroid area，effleurage -> gentle kneading / wringing / tapping / vibration。"
+    "operator": "操作重點：這題是臉部按摩（facial massage）。用手指腹操作，避開喉嚨與甲狀腺區域。可依序做輕撫（effleurage）、揉捏（kneading）、輕拍（tapping）與震動（vibration）。"
   }
 ];

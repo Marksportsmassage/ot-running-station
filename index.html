@@ -7,172 +7,77 @@
   <title>操作治療跑台考試｜20題講稿與影片對照</title>
   <style>
     :root {
-      --bg: #f7f7f4;
-      --card: #ffffff;
-      --text: #1f2937;
-      --muted: #64748b;
-      --line: #e5e7eb;
-      --accent: #2f6f5e;
-      --accent2: #e7f2ee;
-      --warn: #fff7ed;
-      --warnLine: #fed7aa;
+      --bg: #f7f7f4; --card: #ffffff; --text: #1f2937; --muted: #64748b;
+      --line: #e5e7eb; --accent: #2f6f5e; --accent2: #e7f2ee;
+      --warn: #fff7ed; --warnLine: #fed7aa;
     }
     * { box-sizing: border-box; }
     html { scroll-behavior: smooth; }
     body {
       margin: 0;
       font-family: -apple-system, BlinkMacSystemFont, "Noto Sans TC", "Microsoft JhengHei", "PingFang TC", "Segoe UI", Arial, sans-serif;
-      background: var(--bg);
-      color: var(--text);
-      line-height: 1.75;
+      background: var(--bg); color: var(--text); line-height: 1.75;
     }
-    header {
-      padding: 32px 18px 20px;
-      background: linear-gradient(135deg, #e7f2ee, #ffffff);
-      border-bottom: 1px solid var(--line);
-    }
+    header { padding: 32px 18px 20px; background: linear-gradient(135deg, #e7f2ee, #ffffff); border-bottom: 1px solid var(--line); }
     .wrap { max-width: 1040px; margin: 0 auto; }
     h1 { margin: 0 0 8px; font-size: clamp(1.7rem, 3.2vw, 2.6rem); line-height: 1.2; }
     h2 { line-height: 1.3; }
     .subtitle { color: var(--muted); margin: 0; }
     .toolbar {
-      position: sticky;
-      top: 0;
-      z-index: 10;
-      background: rgba(247,247,244,.96);
-      backdrop-filter: blur(10px);
-      border-bottom: 1px solid var(--line);
-      padding: 12px 18px;
+      position: sticky; top: 0; z-index: 10; background: rgba(247,247,244,.96);
+      backdrop-filter: blur(10px); border-bottom: 1px solid var(--line); padding: 12px 18px;
     }
     .toolbar .wrap { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
     input[type="search"] {
-      flex: 1 1 260px;
-      padding: 12px 14px;
-      border: 1px solid var(--line);
-      border-radius: 12px;
-      font-size: 16px;
-      background: white;
+      flex: 1 1 260px; padding: 12px 14px; border: 1px solid var(--line);
+      border-radius: 12px; font-size: 16px; background: white;
     }
     button, .btn {
-      border: 0;
-      border-radius: 12px;
-      padding: 10px 14px;
-      background: var(--accent);
-      color: white;
-      cursor: pointer;
-      text-decoration: none;
-      font-weight: 700;
-      display: inline-flex;
-      align-items: center;
-      gap: 6px;
-      line-height: 1.2;
+      border: 0; border-radius: 12px; padding: 10px 14px; background: var(--accent);
+      color: white; cursor: pointer; text-decoration: none; font-weight: 700;
+      display: inline-flex; align-items: center; gap: 6px; line-height: 1.2;
     }
     .btn.secondary { background: #475569; }
     main { padding: 22px 18px 56px; }
     .grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-      gap: 14px;
-      margin: 18px 0 30px;
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 14px; margin: 18px 0 30px;
     }
     .toc {
-      display: block;
-      background: var(--card);
-      border: 1px solid var(--line);
-      border-radius: 14px;
-      padding: 12px 14px;
-      box-shadow: 0 1px 2px rgba(0,0,0,.03);
-      color: var(--text);
-      text-decoration: none;
-      cursor: pointer;
+      display: block; width: 100%; min-height: 70px; text-align: left;
+      background: var(--card); border: 1px solid var(--line); border-radius: 14px;
+      padding: 12px 14px; box-shadow: 0 1px 2px rgba(0,0,0,.03);
+      color: var(--text); text-decoration: none; cursor: pointer; font: inherit;
     }
-    .toc:hover { border-color: var(--accent); background: #fbfffd; }
+    .toc:hover { border-color: var(--accent); background: #fbfffd; transform: translateY(-1px); }
+    .toc strong { color: var(--accent); }
     .card {
-      background: var(--card);
-      border: 1px solid var(--line);
-      border-radius: 18px;
-      padding: 18px;
-      margin: 18px 0;
-      box-shadow: 0 2px 10px rgba(15,23,42,.04);
+      background: var(--card); border: 1px solid var(--line); border-radius: 18px;
+      padding: 18px; margin: 18px 0; box-shadow: 0 2px 10px rgba(15,23,42,.04);
       scroll-margin-top: 92px;
     }
     .card h2 { margin: 0 0 4px; }
     .meta { color: var(--muted); font-size: 0.95rem; display: flex; gap: 8px; flex-wrap: wrap; }
-    .pill {
-      display: inline-block;
-      background: var(--accent2);
-      color: #174337;
-      border-radius: 999px;
-      padding: 2px 10px;
-      font-size: .9rem;
-    }
-    .section-title {
-      margin: 18px 0 6px;
-      font-weight: 800;
-      color: var(--accent);
-    }
-    .script {
-      white-space: pre-line;
-      background: #fafafa;
-      border-left: 4px solid var(--accent);
-      padding: 12px 14px;
-      border-radius: 10px;
-    }
-    details {
-      margin-top: 12px;
-      background: #f8fafc;
-      border: 1px solid var(--line);
-      border-radius: 12px;
-      padding: 10px 12px;
-    }
+    .pill { display: inline-block; background: var(--accent2); color: #174337; border-radius: 999px; padding: 2px 10px; font-size: .9rem; }
+    .section-title { margin: 18px 0 6px; font-weight: 800; color: var(--accent); }
+    .script { white-space: pre-line; background: #fafafa; border-left: 4px solid var(--accent); padding: 12px 14px; border-radius: 10px; }
+    details { margin-top: 12px; background: #f8fafc; border: 1px solid var(--line); border-radius: 12px; padding: 10px 12px; }
     summary { cursor: pointer; font-weight: 800; }
     .operatorText { white-space: pre-line; word-break: break-word; }
-    .videoBox {
-      background: var(--warn);
-      border: 1px solid var(--warnLine);
-      border-radius: 14px;
-      padding: 12px;
-      margin-top: 12px;
-    }
+    .videoBox { background: var(--warn); border: 1px solid var(--warnLine); border-radius: 14px; padding: 12px; margin-top: 12px; }
     .videoBox a { color: #0f5ea8; font-weight: 700; }
-    iframe {
-      width: 100%;
-      aspect-ratio: 16 / 9;
-      border: 0;
-      border-radius: 12px;
-      background: #111827;
-      margin-top: 10px;
-    }
-    .empty {
-      color: var(--muted);
-      font-style: italic;
-      padding: 4px 0 0;
-    }
-    .note {
-      background: #eef2ff;
-      border: 1px solid #c7d2fe;
-      border-radius: 14px;
-      padding: 14px;
-      margin: 12px 0 22px;
-    }
-    footer {
-      color: var(--muted);
-      border-top: 1px solid var(--line);
-      padding: 22px 18px;
-      background: #fff;
-    }
-    @media print {
-      .toolbar, iframe, .btn, .videoBox { display: none !important; }
-      body { background: white; }
-      .card { break-inside: avoid; box-shadow: none; }
-    }
+    iframe { width: 100%; aspect-ratio: 16 / 9; border: 0; border-radius: 12px; background: #111827; margin-top: 10px; }
+    .empty { color: var(--muted); font-style: italic; padding: 4px 0 0; }
+    .note { background: #eef2ff; border: 1px solid #c7d2fe; border-radius: 14px; padding: 14px; margin: 12px 0 22px; }
+    footer { color: var(--muted); border-top: 1px solid var(--line); padding: 22px 18px; background: #fff; }
+    @media print { .toolbar, iframe, .btn, .videoBox { display: none !important; } body { background: white; } .card { break-inside: avoid; box-shadow: none; } }
   </style>
 </head>
 <body>
   <header>
     <div class="wrap">
       <h1>操作治療跑台考試｜20題講稿與影片對照</h1>
-      <p class="subtitle">患者聽得懂版本＋操作者術語提示。影片連結請填在 videos.js。</p>
+      <p class="subtitle">患者聽得懂版本＋操作者中文提示。關鍵術語保留英文。</p>
     </div>
   </header>
 
@@ -201,7 +106,6 @@
   <footer>
     <div class="wrap">
       <p>使用提醒：這是考試背誦與同學複習用整理版。實際操作仍需依老師示範、課堂講義、個案狀況與禁忌症判斷調整。</p>
-      <p>影片若設為 YouTube「不公開 / Unlisted」，擁有連結的人仍可觀看與再分享。</p>
     </div>
   </footer>
 
@@ -213,21 +117,12 @@
         return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[s];
       });
     }
-
     function youtubeId(url) {
       if (!url) return "";
-      const patterns = [
-        /youtu\.be\/([A-Za-z0-9_-]{6,})/,
-        /youtube\.com\/watch\?v=([A-Za-z0-9_-]{6,})/,
-        /youtube\.com\/embed\/([A-Za-z0-9_-]{6,})/
-      ];
-      for (const p of patterns) {
-        const m = url.match(p);
-        if (m) return m[1];
-      }
+      const patterns = [/youtu\.be\/([A-Za-z0-9_-]{6,})/, /youtube\.com\/watch\?v=([A-Za-z0-9_-]{6,})/, /youtube\.com\/embed\/([A-Za-z0-9_-]{6,})/];
+      for (const p of patterns) { const m = url.match(p); if (m) return m[1]; }
       return "";
     }
-
     function timeToSeconds(t) {
       if (!t) return "";
       const parts = String(t).trim().split(":").map(Number);
@@ -237,26 +132,23 @@
       if (parts.length === 3) return parts[0] * 3600 + parts[1] * 60 + parts[2];
       return "";
     }
-
     function youtubeEmbed(url, start) {
       const id = youtubeId(url);
       if (!id) return "";
       const s = timeToSeconds(start);
       return "https://www.youtube.com/embed/" + id + (s !== "" ? "?start=" + s : "");
     }
-
     function scrollToQuestion(no) {
       const el = document.getElementById("q" + no);
       if (el) el.scrollIntoView({behavior: "smooth", block: "start"});
     }
-
     function render(items) {
       const toc = document.getElementById('toc');
       const cards = document.getElementById('cards');
       const videoMap = window.VIDEO_LINKS || {};
 
       toc.innerHTML = items.map(function(item) {
-        return '<button type="button" class="toc" onclick="scrollToQuestion(' + item.no + ')"><strong>' + item.no + '.</strong> ' + escapeHtml(item.title) + '</button>';
+        return '<button type="button" class="toc" onclick="scrollToQuestion(' + item.no + ')"><strong>' + item.no + '.</strong><br>' + escapeHtml(item.title) + '</button>';
       }).join('');
 
       cards.innerHTML = items.map(function(item) {
@@ -275,9 +167,7 @@
             <div class="empty">請在 videos.js 填入第 ${item.no} 題的 YouTube 連結與時間碼。</div>
           </div>
         `;
-
         const searchText = (item.no + " " + item.title + " " + item.lay_title + " " + item.script + " " + item.operator).toLowerCase();
-
         return `
           <article class="card" id="q${item.no}" data-search="${escapeHtml(searchText)}">
             <h2>${item.no}. ${escapeHtml(item.title)}</h2>
@@ -285,14 +175,11 @@
               <span class="pill">患者說法：${escapeHtml(item.lay_title)}</span>
               <span class="pill">講義：${escapeHtml(item.source)}</span>
             </div>
-
             ${videoHtml}
-
             <div class="section-title">考試講稿</div>
             <div class="script">${escapeHtml(item.script)}</div>
-
             <details>
-              <summary>操作者術語提示</summary>
+              <summary>操作者提示</summary>
               <p class="operatorText">${escapeHtml(item.operator)}</p>
             </details>
           </article>
