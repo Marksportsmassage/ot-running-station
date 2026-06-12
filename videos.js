@@ -105,10 +105,11 @@ window.VIDEO_LINKS = {
 接著固定小腿，讓距骨往後滑，也就是 posterior glide of talus，幫助腳踝比較好往上勾。"
   },
   "17": {
-    "url": "",
-    "start": "",
-    "end": "",
-    "note": ""
+    "url": "https://youtu.be/1J7g9Vv2d-A?si=o4wMhxuHhxSVq8hQ",
+    "start": "02:10",
+    "end": "02:35",
+    "note": "00:03-01:15(traction),先輕輕做一點 wrist traction 讓關節減壓放鬆。
+接著主要做 wrist dorsal glide(02:10-02:35)，固定前臂，讓近端腕骨列往手背方向滑動"
   },
   "18": {
     "url": "https://youtu.be/WaS_1nNAKJU?si=8yQ0eeMX6C-Bi1EC",
