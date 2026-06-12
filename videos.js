@@ -110,13 +110,13 @@ window.VIDEO_LINKS = {
     "url": "https://youtu.be/WaS_1nNAKJU",
     "start": "08:39",
     "end": "12:40",
-    "note": "目前填入此片段；請再確認影片內容是否為 Swedish massage kneading，而不是 friction。"
+    "note": "瑞典式按摩法裡的壓力法，從遠端到近端，壓半圈放半圈，來回三圈。"
   },
   "19": {
-    "url": "",
-    "start": "",
-    "end": "",
-    "note": ""
+    "url": "https://youtu.be/WaS_1nNAKJU?si=Zj1PT1McJyKkDq2X",
+    "start": "23:00",
+    "end": "26:00",
+    "note": "23:00-24:50(橫向)25:00-26:00(圓形)"
   },
   "20": {
     "url": "https://youtu.be/EBPu21qecVk?si=kuMnOvdTpBWIEFbs",
