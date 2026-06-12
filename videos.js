@@ -98,10 +98,11 @@ window.VIDEO_LINKS = {
     "note": "12:24(kenn traction),14:28(ACL Test),15:05(posterior glide)posterior glide，幫助膝蓋彎曲。因為是 ACL 術後四週，避免過多 anterior glide，以免增加前十字韌帶壓力。"
   },
   "16": {
-    "url": "",
-    "start": "",
-    "end": "",
-    "note": ""
+    "url": "https://youtu.be/G07NSer2nJg?si=olCZQBfV3sY1nNXt",
+    "start": "42:20",
+    "end": "46:34",
+    "note": "扣住距骨往腳底，先輕輕拉開腳踝關節，做 talocrural traction，讓關節減壓放鬆。
+接著固定小腿，讓距骨往後滑，也就是 posterior glide of talus，幫助腳踝比較好往上勾。"
   },
   "17": {
     "url": "",
