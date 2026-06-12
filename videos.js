@@ -8,16 +8,16 @@
 
 window.VIDEO_LINKS = {
   "1": {
-    "url": "https://www.youtube.com/watch?v=QSRSTNp6TyM&list=PL_kdRB8mNB8CMdViGQZTqt-JFr4Isc5n9&index=3",
-    "start": "01:30",
-    "end": "04:08",
-    "note": "平順有節奏的來回5-10次"
+    "url": "https://youtu.be/RoIHN0NOV4Y?si=bfk5hDgUOYy1iiXx",
+    "start": "00:04",
+    "end": "01:41",
+    "note": "雙手交叉，一手握手腕，一手握手肘，0~180度，平順有節奏的來回5-10次"
   },
   "2": {
-    "url": "https://www.youtube.com/watch?v=QSRSTNp6TyM&list=PL_kdRB8mNB8CMdViGQZTqt-JFr4Isc5n9&index=3",
-    "start": "06:46",
-    "end": "07:47",
-    "note": "平順有節奏的來回5-10次"
+    "url": "https://youtu.be/RoIHN0NOV4Y?si=bfk5hDgUOYy1iiXx",
+    "start": "06:00",
+    "end": "06:26",
+    "note": "一手抓著手腕，一固定肩關節，平順有節奏的來回5-10次"
   },
   "3": {
     "url": "https://youtu.be/uVeE7y3lk3A?si=HVy6W2Y6pXIHU7Iq",
