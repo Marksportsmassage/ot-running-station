@@ -56,16 +56,16 @@ window.VIDEO_LINKS = {
     "note": "做同側，要壓對側腳不離床,30s"
   },
   "9": {
-    "url": "",
-    "start": "",
-    "end": "",
-    "note": ""
+    "url": "https://youtu.be/l-19O5vqj6Y?si=HR9sh70mjqSeIQfm",
+    "start": "06:20",
+    "end": "07:50",
+    "note": "注意縮下巴動作是否正確"
   },
   "10": {
-    "url": "",
-    "start": "",
-    "end": "",
-    "note": ""
+    "url": "https://youtu.be/6UJF0lAH8Ug?si=horBUWFldeG8C95w",
+    "start": "00:10",
+    "end": "02:30",
+    "note": "注意骨盆需要微微後傾，要配合呼吸，不然血壓會過高"
   },
   "11": {
     "url": "",
