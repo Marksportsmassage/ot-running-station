@@ -2,120 +2,115 @@
 // url：YouTube 單支影片連結，建議用「不公開」影片。
 // start / end：時間碼，例如 00:35 或 01:20。
 // note：影片中操作重點。
-//
-// 範例：
-// "1": { "url": "https://youtu.be/xxxx", "start": "00:10", "end": "00:45", "note": "肩膀往上舉 PROM" }
 
 window.VIDEO_LINKS = {
   "1": {
-    "url": "https://youtu.be/RoIHN0NOV4Y?si=bfk5hDgUOYy1iiXx",
+    "url": "https://youtu.be/RoIHN0NOV4Y",
     "start": "00:04",
     "end": "01:41",
-    "note": "雙手交叉，一手握手腕，一手握手肘，0~180度，平順有節奏的來回5-10次"
+    "note": "雙手交叉，一手握手腕，一手握手肘；0～180度，平順、有節奏來回5～10次。"
   },
   "2": {
-    "url": "https://youtu.be/RoIHN0NOV4Y?si=bfk5hDgUOYy1iiXx",
+    "url": "https://youtu.be/RoIHN0NOV4Y",
     "start": "06:00",
     "end": "06:26",
-    "note": "一手抓著手腕，一固定肩關節，平順有節奏的來回5-10次"
+    "note": "一手抓手腕，一手固定肩關節；平順、有節奏來回5～10次。"
   },
   "3": {
-    "url": "https://youtu.be/uVeE7y3lk3A?si=HVy6W2Y6pXIHU7Iq",
+    "url": "https://youtu.be/uVeE7y3lk3A",
     "start": "08:00",
     "end": "09:15",
-    "note": "來回做，骨盆要正，不要有代償,平順有節奏的來回5-10次"
+    "note": "來回做髖伸展；骨盆要正，不要代償；平順、有節奏來回5～10次。"
   },
   "4": {
-    "url": "https://youtu.be/uVeE7y3lk3A?si=HVy6W2Y6pXIHU7Iq",
+    "url": "https://youtu.be/uVeE7y3lk3A",
     "start": "16:30",
     "end": "18:45",
-    "note": "一手輕抓脛腓股，一手托住跟骨腳底踩著手臂，平順有節奏的來回5-10次"
+    "note": "一手輕抓脛腓骨附近，一手托住跟骨，腳底踩著手臂；平順、有節奏來回5～10次。"
   },
   "5": {
-    "url": "https://www.youtube.com/watch?v=QSRSTNp6TyM&list=PL_kdRB8mNB8CMdViGQZTqt-JFr4Isc5n9&index=3",
+    "url": "https://youtu.be/QSRSTNp6TyM",
     "start": "01:30",
     "end": "04:08",
-    "note": "扣住肩胛骨，做肩屈的動作，一次30s"
+    "note": "扣住肩胛骨，做肩屈曲被動伸展；一次停留30秒。"
   },
   "6": {
-    "url": "https://www.youtube.com/watch?v=QSRSTNp6TyM&list=PL_kdRB8mNB8CMdViGQZTqt-JFr4Isc5n9&index=3",
+    "url": "https://youtu.be/QSRSTNp6TyM",
     "start": "04:14",
     "end": "06:08",
-    "note": "手扣在二頭肌的位置，另一隻手稍微壓著肩胛骨並把手往上方移動，停留30s"
+    "note": "一手扣在二頭肌位置，另一手輕壓肩胛骨，將手往上方移動；停留30秒。"
   },
   "7": {
-    "url": "https://www.youtube.com/watch?v=QSRSTNp6TyM&list=PL_kdRB8mNB8CMdViGQZTqt-JFr4Isc5n9&index=3",
+    "url": "https://youtu.be/QSRSTNp6TyM",
     "start": "16:38",
     "end": "18:04",
-    "note": ""
+    "note": "髖伸直不足被動伸展；固定骨盆，大腿往後帶，注意避免腰椎代償。"
   },
   "8": {
-    "url": "https://www.youtube.com/watch?v=QSRSTNp6TyM&list=PL_kdRB8mNB8CMdViGQZTqt-JFr4Isc5n9&index=3",
+    "url": "https://youtu.be/QSRSTNp6TyM",
     "start": "14:28",
     "end": "16:30",
-    "note": "做同側，要壓對側腳不離床,30s"
+    "note": "做同側髖屈曲伸展，對側腳要壓住不離床；停留30秒。"
   },
   "9": {
-    "url": "https://youtu.be/l-19O5vqj6Y?si=HR9sh70mjqSeIQfm",
+    "url": "https://youtu.be/l-19O5vqj6Y",
     "start": "06:20",
     "end": "07:50",
-    "note": "注意縮下巴動作是否正確"
+    "note": "注意縮下巴（chin tuck）動作是否正確。"
   },
   "10": {
-    "url": "https://youtu.be/6UJF0lAH8Ug?si=horBUWFldeG8C95w",
+    "url": "https://youtu.be/6UJF0lAH8Ug",
     "start": "00:10",
     "end": "02:30",
-    "note": "注意骨盆需要微微後傾，要配合呼吸，不然血壓會過高"
+    "note": "注意骨盆需要微微後傾，並配合呼吸，避免憋氣造成血壓上升。"
   },
   "11": {
-    "url": "https://youtu.be/ihGa2_5xW7E?si=k7ZI0M8KGARuXlrX",
+    "url": "https://youtu.be/ihGa2_5xW7E",
     "start": "00:00",
     "end": "00:56",
-    "note": "伸展、用力、維持6s，考試的時候做3組"
+    "note": "伸展、出力、維持6秒；考試時做3組。"
   },
   "12": {
-    "url": "https://youtu.be/ihGa2_5xW7E?si=k7ZI0M8KGARuXlrX",
+    "url": "https://youtu.be/ihGa2_5xW7E",
     "start": "01:15",
     "end": "01:35",
-    "note": "給與阻力向心收縮，回到伸展位6s，考試的時候做3組"
+    "note": "給予阻力做向心收縮，回到伸展位維持6秒；考試時做3組。"
   },
   "13": {
-    "url": "https://youtu.be/6UJF0lAH8Ug?si=607yInvh-2-ZVL-v",
+    "url": "https://youtu.be/6UJF0lAH8Ug",
     "start": "04:00",
     "end": "06:10",
-    "note": "引導語：手放在頭的兩側，身體盡可能抬高，手不要伸直（prone on elbow），不會不舒服後再把手腕撐起來(prone on wrist)重複做10次"
+    "note": "引導語：手放在頭的兩側，身體盡可能抬高；先做手肘撐起（prone on elbow），不會不舒服後再用手腕撐起（prone on wrist），重複10次。"
   },
   "14": {
-    "url": "https://youtu.be/sP4aeT92z9Y?si=DOKFjKjwmwki6Sew",
+    "url": "https://youtu.be/sP4aeT92z9Y",
     "start": "02:04",
     "end": "08:09",
-    "note": ""
+    "note": "肩關節外轉受限關節鬆動；疼痛為主先低等級鬆動／牽引，再依需要做 ventral glide。"
   },
   "15": {
-    "url": "https://youtu.be/G07NSer2nJg?si=Tpwjp8aP0ZEiRmUA",
+    "url": "https://youtu.be/G07NSer2nJg",
     "start": "12:24",
     "end": "18:36",
-    "note": "12:24(kenn traction),14:28(ACL Test),15:05(posterior glide)posterior glide，幫助膝蓋彎曲。因為是 ACL 術後四週，避免過多 anterior glide，以免增加前十字韌帶壓力。"
+    "note": "12:24 knee traction；14:28 ACL test；15:05 posterior glide。重點：posterior glide 幫助膝蓋彎曲；ACL術後四週避免過多 anterior glide。"
   },
   "16": {
-    "url": "https://youtu.be/G07NSer2nJg?si=olCZQBfV3sY1nNXt",
+    "url": "https://youtu.be/G07NSer2nJg",
     "start": "42:20",
     "end": "46:34",
-    "note": "扣住距骨往腳底，先輕輕拉開腳踝關節，做 talocrural traction，讓關節減壓放鬆。
-接著固定小腿，讓距骨往後滑，也就是 posterior glide of talus，幫助腳踝比較好往上勾。"
+    "note": "先做 talocrural traction 讓關節減壓放鬆；接著固定小腿，讓距骨往後滑（posterior glide of talus），幫助踝背屈。"
   },
   "17": {
-    "url": "https://youtu.be/1J7g9Vv2d-A?si=o4wMhxuHhxSVq8hQ",
+    "url": "https://youtu.be/1J7g9Vv2d-A",
     "start": "02:10",
     "end": "02:35",
-    "note": "00:03-01:15(traction),先輕輕做一點 wrist traction 讓關節減壓放鬆。
-接著主要做 wrist dorsal glide(02:10-02:35)，固定前臂，讓近端腕骨列往手背方向滑動"
+    "note": "00:03～01:15 可先做 wrist traction；主要手法為 02:10～02:35 wrist dorsal glide，固定前臂，讓近端腕骨列往手背方向滑動。"
   },
   "18": {
-    "url": "https://youtu.be/WaS_1nNAKJU?si=8yQ0eeMX6C-Bi1EC",
+    "url": "https://youtu.be/WaS_1nNAKJU",
     "start": "08:39",
     "end": "12:40",
-    "note": ""
+    "note": "目前填入此片段；請再確認影片內容是否為 Swedish massage kneading，而不是 friction。"
   },
   "19": {
     "url": "",

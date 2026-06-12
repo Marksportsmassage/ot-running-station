@@ -77,7 +77,7 @@
   <header>
     <div class="wrap">
       <h1>操作治療跑台考試｜20題講稿與影片對照</h1>
-      <p class="subtitle">患者聽得懂版本＋操作者中文提示。關鍵術語保留英文。</p>
+      <p class="subtitle">患者聽得懂版本＋考題原文＋影片對照。此版優先確保影片穩定顯示。</p>
     </div>
   </header>
 
@@ -92,7 +92,7 @@
   <main class="wrap" id="top">
     <section class="note">
       <strong>影片填寫方式：</strong>
-      之後只要打開 <code>videos.js</code>，把每題的 <code>url</code>、<code>start</code>、<code>end</code>、<code>note</code> 填上去，再把檔案上傳覆蓋到 GitHub，就會更新網頁。
+      打開 <code>videos.js</code>，填上每題的 <code>url</code>、<code>start</code>、<code>end</code>、<code>note</code>。此穩定版會優先顯示影片；若內嵌被擋，可點「開啟原影片」。
     </section>
 
     <section>
@@ -106,6 +106,7 @@
   <footer>
     <div class="wrap">
       <p>使用提醒：這是考試背誦與同學複習用整理版。實際操作仍需依老師示範、課堂講義、個案狀況與禁忌症判斷調整。</p>
+      <p>提醒：YouTube 內嵌影片就算設定 start / end，播放器時間軸仍可能顯示整支影片長度。若要完全只顯示片段，需剪成新影片再上傳。</p>
     </div>
   </footer>
 
@@ -119,7 +120,11 @@
     }
     function youtubeId(url) {
       if (!url) return "";
-      const patterns = [/youtu\.be\/([A-Za-z0-9_-]{6,})/, /youtube\.com\/watch\?v=([A-Za-z0-9_-]{6,})/, /youtube\.com\/embed\/([A-Za-z0-9_-]{6,})/];
+      const patterns = [
+        /youtu\.be\/([A-Za-z0-9_-]{6,})/,
+        /youtube\.com\/watch\?.*v=([A-Za-z0-9_-]{6,})/,
+        /youtube\.com\/embed\/([A-Za-z0-9_-]{6,})/
+      ];
       for (const p of patterns) { const m = url.match(p); if (m) return m[1]; }
       return "";
     }
@@ -132,11 +137,23 @@
       if (parts.length === 3) return parts[0] * 3600 + parts[1] * 60 + parts[2];
       return "";
     }
-    function youtubeEmbed(url, start) {
+    function youtubeEmbed(url, start, end) {
       const id = youtubeId(url);
       if (!id) return "";
+      const params = [];
       const s = timeToSeconds(start);
-      return "https://www.youtube.com/embed/" + id + (s !== "" ? "?start=" + s : "");
+      const e = timeToSeconds(end);
+      if (s !== "") params.push("start=" + s);
+      if (e !== "") params.push("end=" + e);
+      params.push("rel=0");
+      params.push("modestbranding=1");
+      return "https://www.youtube.com/embed/" + id + (params.length ? "?" + params.join("&") : "");
+    }
+    function youtubeWatchAt(url, start) {
+      const id = youtubeId(url);
+      const s = timeToSeconds(start);
+      if (!id) return url || "";
+      return "https://youtu.be/" + id + (s !== "" ? "?t=" + s : "");
     }
     function scrollToQuestion(no) {
       const el = document.getElementById("q" + no);
@@ -153,13 +170,14 @@
 
       cards.innerHTML = items.map(function(item) {
         const v = videoMap[String(item.no)] || {};
-        const embed = youtubeEmbed(v.url, v.start);
+        const embed = youtubeEmbed(v.url, v.start, v.end);
+        const watchAt = youtubeWatchAt(v.url, v.start);
         const videoHtml = v.url ? `
           <div class="videoBox">
-            <div><strong>影片連結：</strong><a href="${escapeHtml(v.url)}" target="_blank" rel="noopener">開啟影片</a></div>
-            <div><strong>時間碼：</strong>${escapeHtml(v.start || "待補")}${v.end ? " - " + escapeHtml(v.end) : ""}</div>
+            <div><strong>影片連結：</strong><a href="${escapeHtml(watchAt)}" target="_blank" rel="noopener">開啟原影片（從開始時間）</a></div>
+            <div><strong>片段時間：</strong>${escapeHtml(v.start || "待補")}${v.end ? " - " + escapeHtml(v.end) : ""}</div>
             ${v.note ? `<div><strong>影片重點：</strong>${escapeHtml(v.note)}</div>` : ""}
-            ${embed ? `<iframe src="${embed}" allowfullscreen title="${escapeHtml(item.title)}"></iframe>` : ""}
+            ${embed ? `<iframe src="${embed}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="${escapeHtml(item.title)}"></iframe><div class="empty">若內嵌影片沒有出現，請點上方「開啟原影片」。</div>` : `<div class="empty">影片連結格式無法辨識，請改成 https://youtu.be/影片ID</div>`}
           </div>
         ` : `
           <div class="videoBox">
