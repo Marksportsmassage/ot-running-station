@@ -32,10 +32,10 @@ window.VIDEO_LINKS = {
     "note": ""
   },
   "5": {
-    "url": "",
-    "start": "",
-    "end": "",
-    "note": ""
+    "url": "https://www.youtube.com/watch?v=QSRSTNp6TyM&list=PL_kdRB8mNB8CMdViGQZTqt-JFr4Isc5n9&index=3",
+    "start": "01:30",
+    "end": "04:07",
+    "note": "扣住肩胛骨做肩屈，一次30s"
   },
   "6": {
     "url": "",
