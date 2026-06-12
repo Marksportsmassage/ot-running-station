@@ -50,10 +50,10 @@ window.VIDEO_LINKS = {
     "note": ""
   },
   "8": {
-    "url": "",
-    "start": "",
-    "end": "",
-    "note": ""
+    "url": "https://www.youtube.com/watch?v=QSRSTNp6TyM&list=PL_kdRB8mNB8CMdViGQZTqt-JFr4Isc5n9&index=3",
+    "start": "14:28",
+    "end": "16:30",
+    "note": "做同側，要壓對側腳不離床,30s"
   },
   "9": {
     "url": "",
