@@ -110,9 +110,9 @@ window.VIDEO_LINKS = {
     "note": ""
   },
   "18": {
-    "url": "",
-    "start": "",
-    "end": "",
+    "url": "https://youtu.be/WaS_1nNAKJU?si=8yQ0eeMX6C-Bi1EC",
+    "start": "08:39",
+    "end": "12:40",
     "note": ""
   },
   "19": {
