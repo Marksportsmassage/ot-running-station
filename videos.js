@@ -11,13 +11,13 @@ window.VIDEO_LINKS = {
     "url": "https://www.youtube.com/watch?v=QSRSTNp6TyM&list=PL_kdRB8mNB8CMdViGQZTqt-JFr4Isc5n9&index=3",
     "start": "01:30",
     "end": "04:08",
-    "note": "僅只做關節活動"
+    "note": "平順有節奏的來回5-10次"
   },
   "2": {
     "url": "https://www.youtube.com/watch?v=QSRSTNp6TyM&list=PL_kdRB8mNB8CMdViGQZTqt-JFr4Isc5n9&index=3",
     "start": "06:46",
     "end": "07:47",
-    "note": "僅只做關節活動"
+    "note": "平順有節奏的來回5-10次"
   },
   "3": {
     "url": "https://youtu.be/uVeE7y3lk3A?si=HVy6W2Y6pXIHU7Iq",
