@@ -68,16 +68,16 @@ window.VIDEO_LINKS = {
     "note": "注意骨盆需要微微後傾，要配合呼吸，不然血壓會過高"
   },
   "11": {
-    "url": "",
-    "start": "",
-    "end": "",
-    "note": ""
+    "url": "https://youtu.be/ihGa2_5xW7E?si=k7ZI0M8KGARuXlrX",
+    "start": "00:00",
+    "end": "00:56",
+    "note": "伸展、用力、維持6s，考試的時候做3組"
   },
   "12": {
-    "url": "",
-    "start": "",
-    "end": "",
-    "note": ""
+    "url": "https://youtu.be/ihGa2_5xW7E?si=k7ZI0M8KGARuXlrX",
+    "start": "01:15",
+    "end": "01:35",
+    "note": "給與阻力向心收縮，回到伸展位6s，考試的時候做3組"
   },
   "13": {
     "url": "",
