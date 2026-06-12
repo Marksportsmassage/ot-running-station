@@ -20,16 +20,16 @@ window.VIDEO_LINKS = {
     "note": "僅只做關節活動"
   },
   "3": {
-    "url": "",
-    "start": "",
-    "end": "",
-    "note": ""
+    "url": "https://youtu.be/uVeE7y3lk3A?si=HVy6W2Y6pXIHU7Iq",
+    "start": "08:00",
+    "end": "09:15",
+    "note": "來回做，骨盆要正，不要有代償"
   },
   "4": {
-    "url": "",
-    "start": "",
-    "end": "",
-    "note": ""
+    "url": "https://youtu.be/uVeE7y3lk3A?si=HVy6W2Y6pXIHU7Iq",
+    "start": "16:30",
+    "end": "18:45",
+    "note": "一手輕抓脛腓股，一手托住跟骨腳底踩著手臂，平順有節奏的來回5-10次"
   },
   "5": {
     "url": "https://www.youtube.com/watch?v=QSRSTNp6TyM&list=PL_kdRB8mNB8CMdViGQZTqt-JFr4Isc5n9&index=3",
