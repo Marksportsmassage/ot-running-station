@@ -44,9 +44,9 @@ window.VIDEO_LINKS = {
     "note": "手扣在二頭肌的位置，另一隻手稍微壓著肩胛骨並把手往上方移動，停留30s"
   },
   "7": {
-    "url": "",
-    "start": "",
-    "end": "",
+    "url": "https://www.youtube.com/watch?v=QSRSTNp6TyM&list=PL_kdRB8mNB8CMdViGQZTqt-JFr4Isc5n9&index=3",
+    "start": "16:38",
+    "end": "18:04",
     "note": ""
   },
   "8": {
