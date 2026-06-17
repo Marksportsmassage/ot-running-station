@@ -12,8 +12,8 @@ window.MMT_ITEMS = [
     "notes": "必須分開測試橈偏與尺偏。",
     "script": "現在要測手腕往下彎的力量。請你前臂放在桌上、手指放鬆，手腕往掌心方向彎。我會在掌心往下給阻力，請你撐住。",
     "page_image": "assets/crop-mmt-01.jpg",
-    "crop_image": "assets/crop-mmt-01.jpg",
-    "full_page_image": "assets/mmt-p03.jpg"
+    "full_page_image": "assets/mmt-p03.jpg",
+    "crop_image": "assets/crop-mmt-01.jpg"
   },
   {
     "no": 2,
@@ -28,8 +28,8 @@ window.MMT_ITEMS = [
     "notes": "必須分開測試橈偏與尺偏。",
     "script": "現在要測手腕往上翹的力量。請你前臂放在桌上、手指放鬆，手腕往上翹。我會在手背往下給阻力，請你撐住。",
     "page_image": "assets/crop-mmt-02.jpg",
-    "crop_image": "assets/crop-mmt-02.jpg",
-    "full_page_image": "assets/mmt-p03.jpg"
+    "full_page_image": "assets/mmt-p03.jpg",
+    "crop_image": "assets/crop-mmt-02.jpg"
   },
   {
     "no": 3,
@@ -44,8 +44,8 @@ window.MMT_ITEMS = [
     "notes": "2分與1～0分為不同去重力姿勢。",
     "script": "現在要測髖關節彎曲力量。請你坐好、骨盆保持正中，把大腿往上抬離床面。我會在大腿中段往下給阻力，請你撐住。",
     "page_image": "assets/crop-mmt-03.jpg",
-    "crop_image": "assets/crop-mmt-03.jpg",
-    "full_page_image": "assets/mmt-p04.jpg"
+    "full_page_image": "assets/mmt-p04.jpg",
+    "crop_image": "assets/crop-mmt-03.jpg"
   },
   {
     "no": 4,
@@ -60,8 +60,8 @@ window.MMT_ITEMS = [
     "notes": "動作像把腳沿著對側小腿往上滑。",
     "script": "現在要測縫匠肌。請你把腳沿著另一側小腿往上滑。我會在膝外側和小腿內側給阻力，請你維持。",
     "page_image": "assets/crop-mmt-04.jpg",
-    "crop_image": "assets/crop-mmt-04.jpg",
-    "full_page_image": "assets/mmt-p04.jpg"
+    "full_page_image": "assets/mmt-p04.jpg",
+    "crop_image": "assets/crop-mmt-04.jpg"
   },
   {
     "no": 5,
@@ -76,8 +76,8 @@ window.MMT_ITEMS = [
     "notes": "5分與4分施壓部位不同。",
     "script": "現在要測髖伸直力量。請你趴著、膝蓋打直，整條腿往上抬。我會依情況在小腿或膝蓋往下給阻力，請你撐住。",
     "page_image": "assets/crop-mmt-05.jpg",
-    "crop_image": "assets/crop-mmt-05.jpg",
-    "full_page_image": "assets/mmt-p05.jpg"
+    "full_page_image": "assets/mmt-p05.jpg",
+    "crop_image": "assets/crop-mmt-05.jpg"
   },
   {
     "no": 6,
@@ -92,8 +92,8 @@ window.MMT_ITEMS = [
     "notes": "偏重臀大肌，減少腿後肌群參與。",
     "script": "現在要測臀大肌。請你趴著，膝蓋彎90度，大腿往上抬。我會在膝蓋往下給阻力，請你撐住。",
     "page_image": "assets/crop-mmt-06.jpg",
-    "crop_image": "assets/crop-mmt-06.jpg",
-    "full_page_image": "assets/mmt-p05.jpg"
+    "full_page_image": "assets/mmt-p05.jpg",
+    "crop_image": "assets/crop-mmt-06.jpg"
   },
   {
     "no": 7,
@@ -108,8 +108,8 @@ window.MMT_ITEMS = [
     "notes": "5分與4分施壓部位不同。",
     "script": "現在要測髖外展。請你側躺，膝蓋打直，把上方大腿往天花板抬起。我會在腳踝或膝蓋往下給阻力。",
     "page_image": "assets/crop-mmt-07.jpg",
-    "crop_image": "assets/crop-mmt-07.jpg",
-    "full_page_image": "assets/mmt-p06.jpg"
+    "full_page_image": "assets/mmt-p06.jpg",
+    "crop_image": "assets/crop-mmt-07.jpg"
   },
   {
     "no": 8,
@@ -124,8 +124,8 @@ window.MMT_ITEMS = [
     "notes": "2分為完成髖外展至30度。",
     "script": "現在要測髖屈45度位置的外展力量。請你側躺，髖彎約45度，將大腿往天花板抬起約30度。我會在膝蓋往下給阻力。",
     "page_image": "assets/crop-mmt-08.jpg",
-    "crop_image": "assets/crop-mmt-08.jpg",
-    "full_page_image": "assets/mmt-p06.jpg"
+    "full_page_image": "assets/mmt-p06.jpg",
+    "crop_image": "assets/crop-mmt-08.jpg"
   },
   {
     "no": 9,
@@ -140,8 +140,8 @@ window.MMT_ITEMS = [
     "notes": "側躺測試時上方腳需托高。",
     "script": "現在要測髖內收。請你側躺，我會托住上方腳，你把下面這隻腳往上抬。我會在膝蓋往下給阻力。",
     "page_image": "assets/crop-mmt-09.jpg",
-    "crop_image": "assets/crop-mmt-09.jpg",
-    "full_page_image": "assets/mmt-p07.jpg"
+    "full_page_image": "assets/mmt-p07.jpg",
+    "crop_image": "assets/crop-mmt-09.jpg"
   },
   {
     "no": 10,
@@ -156,8 +156,8 @@ window.MMT_ITEMS = [
     "notes": "3分可為無阻力或輕度阻力；2分過中線後給微小阻力。",
     "script": "現在要測髖外轉。請你坐著，讓小腿往內側擺。我會在膝外側和小腿內側給阻力，請你撐住。",
     "page_image": "assets/crop-mmt-10.jpg",
-    "crop_image": "assets/crop-mmt-10.jpg",
-    "full_page_image": "assets/mmt-p08.jpg"
+    "full_page_image": "assets/mmt-p08.jpg",
+    "crop_image": "assets/crop-mmt-10.jpg"
   },
   {
     "no": 11,
@@ -172,8 +172,8 @@ window.MMT_ITEMS = [
     "notes": "3分可為無阻力或輕度阻力；2分過中線後給微小阻力。",
     "script": "現在要測髖內轉。請你坐著，讓小腿往外側擺。我會在膝內側和小腿外側給阻力，請你撐住。",
     "page_image": "assets/crop-mmt-11.jpg",
-    "crop_image": "assets/crop-mmt-11.jpg",
-    "full_page_image": "assets/mmt-p08.jpg"
+    "full_page_image": "assets/mmt-p08.jpg",
+    "crop_image": "assets/crop-mmt-11.jpg"
   },
   {
     "no": 12,
@@ -188,8 +188,8 @@ window.MMT_ITEMS = [
     "notes": "必須分開測試；膕旁肌為雙關節肌，要在中間位置測試。",
     "script": "現在要測膝蓋彎曲力量。請你趴著，從膝蓋彎45度開始再彎起來。我會在腳踝往下給阻力。",
     "page_image": "assets/crop-mmt-12.jpg",
-    "crop_image": "assets/crop-mmt-12.jpg",
-    "full_page_image": "assets/mmt-p09.jpg"
+    "full_page_image": "assets/mmt-p09.jpg",
+    "crop_image": "assets/crop-mmt-12.jpg"
   },
   {
     "no": 13,
@@ -204,8 +204,8 @@ window.MMT_ITEMS = [
     "notes": "給阻力時不能完全伸直。",
     "script": "現在要測膝蓋伸直力量。請你坐著，從膝蓋微彎開始把膝蓋伸直。我會在腳踝往下給阻力，但不在完全伸直的位置給。",
     "page_image": "assets/crop-mmt-13.jpg",
-    "crop_image": "assets/crop-mmt-13.jpg",
-    "full_page_image": "assets/mmt-p09.jpg"
+    "full_page_image": "assets/mmt-p09.jpg",
+    "crop_image": "assets/crop-mmt-13.jpg"
   },
   {
     "no": 14,
@@ -220,8 +220,8 @@ window.MMT_ITEMS = [
     "notes": "踮腳尖約2秒1次。",
     "script": "現在要測踮腳尖力量。請你站著踮腳尖，我會看高度和次數。若無法站立，會改成趴姿測腳踝往下踩。",
     "page_image": "assets/crop-mmt-14.jpg",
-    "crop_image": "assets/crop-mmt-14.jpg",
-    "full_page_image": "assets/mmt-p10.jpg"
+    "full_page_image": "assets/mmt-p10.jpg",
+    "crop_image": "assets/crop-mmt-14.jpg"
   },
   {
     "no": 15,
@@ -236,8 +236,8 @@ window.MMT_ITEMS = [
     "notes": "動作是往上、往內勾。",
     "script": "現在要測腳往上往內勾的力量。請你仰躺，把腳往上、往內勾。我會在足內側往下往外給阻力。",
     "page_image": "assets/crop-mmt-15.jpg",
-    "crop_image": "assets/crop-mmt-15.jpg",
-    "full_page_image": "assets/mmt-p10.jpg"
+    "full_page_image": "assets/mmt-p10.jpg",
+    "crop_image": "assets/crop-mmt-15.jpg"
   },
   {
     "no": 16,
@@ -252,8 +252,8 @@ window.MMT_ITEMS = [
     "notes": "2分為完成部分範圍。",
     "script": "現在要測腳往內翻的力量。請你坐著，腳從微微往下踩的位置開始，往下、往內移動。我會在前足內側往上往外給阻力。",
     "page_image": "assets/crop-mmt-16.jpg",
-    "crop_image": "assets/crop-mmt-16.jpg",
-    "full_page_image": "assets/mmt-p11.jpg"
+    "full_page_image": "assets/mmt-p11.jpg",
+    "crop_image": "assets/crop-mmt-16.jpg"
   },
   {
     "no": 17,
@@ -268,8 +268,8 @@ window.MMT_ITEMS = [
     "notes": "2分為完成部分範圍。",
     "script": "現在要測腳往外翻的力量。請你坐著，腳從正中開始，往下、往外移動。我會在前足背側往上往內給阻力。",
     "page_image": "assets/crop-mmt-17.jpg",
-    "crop_image": "assets/crop-mmt-17.jpg",
-    "full_page_image": "assets/mmt-p11.jpg"
+    "full_page_image": "assets/mmt-p11.jpg",
+    "crop_image": "assets/crop-mmt-17.jpg"
   },
   {
     "no": 18,
@@ -284,8 +284,8 @@ window.MMT_ITEMS = [
     "notes": "測MTP屈曲。",
     "script": "現在要測腳趾根部往下彎的力量。請你把腳放在我腿上，把腳趾往下彎。我會在近端趾骨下方給阻力。",
     "page_image": "assets/crop-mmt-18.jpg",
-    "crop_image": "assets/crop-mmt-18.jpg",
-    "full_page_image": "assets/mmt-p12.jpg"
+    "full_page_image": "assets/mmt-p12.jpg",
+    "crop_image": "assets/crop-mmt-18.jpg"
   },
   {
     "no": 19,
@@ -300,8 +300,8 @@ window.MMT_ITEMS = [
     "notes": "測趾間關節屈曲。",
     "script": "現在要測腳趾末端關節往下彎的力量。請你把腳趾彎起來。我會在中間或遠端趾骨下方給阻力。",
     "page_image": "assets/crop-mmt-19.jpg",
-    "crop_image": "assets/crop-mmt-19.jpg",
-    "full_page_image": "assets/mmt-p12.jpg"
+    "full_page_image": "assets/mmt-p12.jpg",
+    "crop_image": "assets/crop-mmt-19.jpg"
   },
   {
     "no": 20,
@@ -316,8 +316,8 @@ window.MMT_ITEMS = [
     "notes": "測腳趾伸直。",
     "script": "現在要測腳趾往上翹的力量。請你把腳趾往上伸直。我會在近端趾骨背側給往下的阻力。",
     "page_image": "assets/crop-mmt-20.jpg",
-    "crop_image": "assets/crop-mmt-20.jpg",
-    "full_page_image": "assets/mmt-p13.jpg"
+    "full_page_image": "assets/mmt-p13.jpg",
+    "crop_image": "assets/crop-mmt-20.jpg"
   },
   {
     "no": 21,
@@ -332,8 +332,8 @@ window.MMT_ITEMS = [
     "notes": "頸椎不可伸直；3分要去重力。",
     "script": "現在要測頭部伸直力量。請你趴著、頭垂出床緣，只做下巴向上，頸椎不要整個伸直。我會在枕骨給阻力。",
     "page_image": "assets/crop-mmt-21.jpg",
-    "crop_image": "assets/crop-mmt-21.jpg",
-    "full_page_image": "assets/mmt-p14.jpg"
+    "full_page_image": "assets/mmt-p14.jpg",
+    "crop_image": "assets/crop-mmt-21.jpg"
   },
   {
     "no": 22,
@@ -348,8 +348,8 @@ window.MMT_ITEMS = [
     "notes": "不抬高下巴；3分要去重力。",
     "script": "現在要測頸部伸直力量。請你趴著，頭垂出床緣，把頭部往上抬，但不要只是抬下巴。我會在枕骨頂部給阻力。",
     "page_image": "assets/crop-mmt-22.jpg",
-    "crop_image": "assets/crop-mmt-22.jpg",
-    "full_page_image": "assets/mmt-p14.jpg"
+    "full_page_image": "assets/mmt-p14.jpg",
+    "crop_image": "assets/crop-mmt-22.jpg"
   },
   {
     "no": 23,
@@ -364,8 +364,8 @@ window.MMT_ITEMS = [
     "notes": "頭部不可抬離床面。",
     "script": "現在要測頭部屈曲力量。請你仰躺，頭不要離開床，只做縮下巴。我會在下巴附近給向上的阻力。",
     "page_image": "assets/crop-mmt-23.jpg",
-    "crop_image": "assets/crop-mmt-23.jpg",
-    "full_page_image": "assets/mmt-p15.jpg"
+    "full_page_image": "assets/mmt-p15.jpg",
+    "crop_image": "assets/crop-mmt-23.jpg"
   },
   {
     "no": 24,
@@ -380,8 +380,8 @@ window.MMT_ITEMS = [
     "notes": "必須分開測試；測右SCM先轉頭向左。",
     "script": "現在要測頸部屈曲力量。請你仰躺、膝蓋彎，先縮下巴，再把頭抬離床面。我會在下巴往下給阻力。",
     "page_image": "assets/crop-mmt-24.jpg",
-    "crop_image": "assets/crop-mmt-24.jpg",
-    "full_page_image": "assets/mmt-p15.jpg"
+    "full_page_image": "assets/mmt-p15.jpg",
+    "crop_image": "assets/crop-mmt-24.jpg"
   },
   {
     "no": 25,
@@ -396,8 +396,8 @@ window.MMT_ITEMS = [
     "notes": "2分為完成部分範圍。",
     "script": "現在要測頸部旋轉力量。請你先把臉轉到一側，再轉回正中。我會在耳朵上方給抗旋轉阻力。",
     "page_image": "assets/crop-mmt-25.jpg",
-    "crop_image": "assets/crop-mmt-25.jpg",
-    "full_page_image": "assets/mmt-p16.jpg"
+    "full_page_image": "assets/mmt-p16.jpg",
+    "crop_image": "assets/crop-mmt-25.jpg"
   },
   {
     "no": 26,
@@ -412,8 +412,8 @@ window.MMT_ITEMS = [
     "notes": "5分能像鎖住一樣維持；4分末端有些微移動。",
     "script": "現在要測軀幹伸直力量。請你趴著，依測試段落把上半身抬起。我會觀察你是否能維持穩定。",
     "page_image": "assets/crop-mmt-26.jpg",
-    "crop_image": "assets/crop-mmt-26.jpg",
-    "full_page_image": "assets/mmt-p17.jpg"
+    "full_page_image": "assets/mmt-p17.jpg",
+    "crop_image": "assets/crop-mmt-26.jpg"
   },
   {
     "no": 27,
@@ -428,8 +428,8 @@ window.MMT_ITEMS = [
     "notes": "2分為完成部分範圍。",
     "script": "現在要測骨盆上抬力量。請你仰躺、手握床緣，把單側骨盆往上提。我會在同側腳踝往下拉給阻力。",
     "page_image": "assets/crop-mmt-27.jpg",
-    "crop_image": "assets/crop-mmt-27.jpg",
-    "full_page_image": "assets/mmt-p17.jpg"
+    "full_page_image": "assets/mmt-p17.jpg",
+    "crop_image": "assets/crop-mmt-27.jpg"
   },
   {
     "no": 28,
@@ -444,8 +444,8 @@ window.MMT_ITEMS = [
     "notes": "2分測試有3步驟。",
     "script": "現在要測軀幹屈曲力量。請你仰躺，依等級改變手的位置，將雙側肩胛骨下角抬離床面。",
     "page_image": "assets/crop-mmt-28.jpg",
-    "crop_image": "assets/crop-mmt-28.jpg",
-    "full_page_image": "assets/mmt-p18.jpg"
+    "full_page_image": "assets/mmt-p18.jpg",
+    "crop_image": "assets/crop-mmt-28.jpg"
   },
   {
     "no": 29,
@@ -460,7 +460,7 @@ window.MMT_ITEMS = [
     "notes": "必須分開測試；2分為完成部分範圍。",
     "script": "現在要測軀幹旋轉力量。請你仰躺，依指定手的位置做軀幹旋轉。我會左右分開測試。",
     "page_image": "assets/crop-mmt-29.jpg",
-    "crop_image": "assets/crop-mmt-29.jpg",
-    "full_page_image": "assets/mmt-p18.jpg"
+    "full_page_image": "assets/mmt-p18.jpg",
+    "crop_image": "assets/crop-mmt-29.jpg"
   }
 ];

@@ -13,8 +13,8 @@ window.ROM_ITEMS = [
     "moving": "股骨外側中線，對齊股骨外上髁。",
     "script": "現在要測量髖關節屈曲角度。請你躺好、膝蓋彎曲，我會固定骨盆，讓大腿往胸口方向活動。量角器中心放在大轉子，固定臂對齊骨盆外側中線，移動臂對齊股骨外側中線。終點感覺是 soft / firm。",
     "note": "",
-    "crop_image": "assets/crop-rom-01.jpg",
-    "full_page_image": "assets/guide-p07.jpg"
+    "full_page_image": "assets/guide-p07.jpg",
+    "crop_image": "assets/crop-rom-01.jpg"
   },
   {
     "no": 2,
@@ -30,8 +30,8 @@ window.ROM_ITEMS = [
     "moving": "股骨與髕骨前側中線。",
     "script": "現在要測量髖關節外展角度。請你躺好、膝蓋打直，我會固定骨盆，將腿往外側打開。量角器中心放在 ASIS，固定臂平行兩側 ASIS 的連線，移動臂對齊股骨與髕骨前側中線。終點感覺是 firm。",
     "note": "",
-    "crop_image": "assets/crop-rom-02.jpg",
-    "full_page_image": "assets/guide-p07.jpg"
+    "full_page_image": "assets/guide-p07.jpg",
+    "crop_image": "assets/crop-rom-02.jpg"
   },
   {
     "no": 3,
@@ -47,8 +47,8 @@ window.ROM_ITEMS = [
     "moving": "股骨與髕骨前側中線。",
     "script": "現在要測量髖關節內收角度。請你躺好，對側腳先外展讓出空間，我會固定骨盆，將測試腳往身體內側帶。量角器中心放在 ASIS，固定臂平行兩側 ASIS 的連線，移動臂對齊股骨與髕骨前側中線。終點感覺是 firm。",
     "note": "",
-    "crop_image": "assets/crop-rom-03.jpg",
-    "full_page_image": "assets/guide-p07.jpg"
+    "full_page_image": "assets/guide-p07.jpg",
+    "crop_image": "assets/crop-rom-03.jpg"
   },
   {
     "no": 4,
@@ -64,8 +64,8 @@ window.ROM_ITEMS = [
     "moving": "下方小腿前側中線，對齊脛骨嵴與內外踝中線。",
     "script": "現在要測量髖內轉角度。請你坐好，髖膝約 90 度，我會固定大腿，讓小腿往外側移動，這代表髖內轉。量角器中心放在髕骨前側，固定臂垂直地面，移動臂對齊小腿前側中線。終點感覺是 firm。",
     "note": "",
-    "crop_image": "assets/crop-rom-04.jpg",
-    "full_page_image": "assets/guide-p07.jpg"
+    "full_page_image": "assets/guide-p07.jpg",
+    "crop_image": "assets/crop-rom-04.jpg"
   },
   {
     "no": 5,
@@ -81,8 +81,8 @@ window.ROM_ITEMS = [
     "moving": "下方小腿前側中線，對齊脛骨嵴與內外踝中線。",
     "script": "現在要測量髖外轉角度。請你坐好，髖膝約 90 度，我會固定大腿，讓小腿往內側移動，這代表髖外轉。量角器中心放在髕骨前側，固定臂垂直地面，移動臂對齊小腿前側中線。終點感覺是 firm。",
     "note": "",
-    "crop_image": "assets/crop-rom-05.jpg",
-    "full_page_image": "assets/guide-p07.jpg"
+    "full_page_image": "assets/guide-p07.jpg",
+    "crop_image": "assets/crop-rom-05.jpg"
   },
   {
     "no": 6,
@@ -98,8 +98,8 @@ window.ROM_ITEMS = [
     "moving": "腓骨外側中線，對齊外踝與腓骨頭。",
     "script": "現在要測量膝關節屈曲角度。請你躺好，我會固定大腿，讓膝蓋彎曲。量角器中心放在股骨外上髁，固定臂對齊股骨外側中線，移動臂對齊腓骨外側中線。終點感覺是 soft / firm。",
     "note": "",
-    "crop_image": "assets/crop-rom-06.jpg",
-    "full_page_image": "assets/guide-p08.jpg"
+    "full_page_image": "assets/guide-p08.jpg",
+    "crop_image": "assets/crop-rom-06.jpg"
   },
   {
     "no": 7,
@@ -115,8 +115,8 @@ window.ROM_ITEMS = [
     "moving": "平行第 5 蹠骨外側中線。",
     "script": "現在要測量踝關節背屈角度。請你坐好，髖膝約 90 度，腳保持正中，我會固定小腿，讓腳往上勾。量角器中心放在外踝，固定臂對齊腓骨外側中線，移動臂平行第五蹠骨外側中線。終點感覺是 firm。",
     "note": "",
-    "crop_image": "assets/crop-rom-07.jpg",
-    "full_page_image": "assets/guide-p08.jpg"
+    "full_page_image": "assets/guide-p08.jpg",
+    "crop_image": "assets/crop-rom-07.jpg"
   },
   {
     "no": 8,
@@ -132,8 +132,8 @@ window.ROM_ITEMS = [
     "moving": "平行第 5 蹠骨外側中線。",
     "script": "現在要測量踝關節蹠屈角度。請你坐好，腳保持正中，我會固定小腿，讓腳往下踩。量角器中心放在外踝，固定臂對齊腓骨外側中線，移動臂平行第五蹠骨外側中線。終點感覺是 firm / hard。",
     "note": "",
-    "crop_image": "assets/crop-rom-08.jpg",
-    "full_page_image": "assets/guide-p08.jpg"
+    "full_page_image": "assets/guide-p08.jpg",
+    "crop_image": "assets/crop-rom-08.jpg"
   },
   {
     "no": 9,
@@ -149,8 +149,8 @@ window.ROM_ITEMS = [
     "moving": "第二蹠骨前側中線。",
     "script": "現在要測量前足前跗內翻角度。請你坐好，髖膝約 90 度，我會固定小腿，將前足往內翻。量角器中心放在內外踝中間前側附近，固定臂對齊下肢前側中線，移動臂對齊第二蹠骨前側中線。終點感覺是 firm。",
     "note": "",
-    "crop_image": "assets/crop-rom-09.jpg",
-    "full_page_image": "assets/guide-p09.jpg"
+    "full_page_image": "assets/guide-p09.jpg",
+    "crop_image": "assets/crop-rom-09.jpg"
   },
   {
     "no": 10,
@@ -166,8 +166,8 @@ window.ROM_ITEMS = [
     "moving": "第二蹠骨前側中線。",
     "script": "現在要測量前足前跗外翻角度。請你坐好，我會固定小腿，將前足往外翻。量角器中心放在內外踝中間前側附近，固定臂對齊下肢前側中線，移動臂對齊第二蹠骨前側中線。終點感覺是 hard / firm。",
     "note": "",
-    "crop_image": "assets/crop-rom-10.jpg",
-    "full_page_image": "assets/guide-p09.jpg"
+    "full_page_image": "assets/guide-p09.jpg",
+    "crop_image": "assets/crop-rom-10.jpg"
   },
   {
     "no": 11,
@@ -183,8 +183,8 @@ window.ROM_ITEMS = [
     "moving": "跟骨後側中線。",
     "script": "現在要測量距下關節後足內翻角度。請你趴著，腳垂出床緣，我會固定小腿，讓跟骨往內翻。量角器中心放在後側內外踝中間，固定臂對齊小腿後側中線，移動臂對齊跟骨後側中線。終點感覺是 firm。",
     "note": "",
-    "crop_image": "assets/crop-rom-11.jpg",
-    "full_page_image": "assets/guide-p09.jpg"
+    "full_page_image": "assets/guide-p09.jpg",
+    "crop_image": "assets/crop-rom-11.jpg"
   },
   {
     "no": 12,
@@ -200,8 +200,8 @@ window.ROM_ITEMS = [
     "moving": "跟骨後側中線。",
     "script": "現在要測量距下關節後足外翻角度。請你趴著，腳垂出床緣，我會固定小腿，讓跟骨往外翻。量角器中心放在後側內外踝中間，固定臂對齊小腿後側中線，移動臂對齊跟骨後側中線。終點感覺是 hard / firm。",
     "note": "",
-    "crop_image": "assets/crop-rom-12.jpg",
-    "full_page_image": "assets/guide-p09.jpg"
+    "full_page_image": "assets/guide-p09.jpg",
+    "crop_image": "assets/crop-rom-12.jpg"
   },
   {
     "no": 13,
@@ -217,8 +217,8 @@ window.ROM_ITEMS = [
     "moving": "第一與第五蹠骨頭部背側連線。",
     "script": "現在要測量橫跗關節前足內翻角度。請你坐好，距下關節保持正中，我會固定跟骨，將前足往內翻。量角器中心放在第五蹠骨頭外側，固定臂平行小腿前側中線，移動臂對齊第一與第五蹠骨頭背側連線。終點感覺是 firm。",
     "note": "",
-    "crop_image": "assets/crop-rom-13.jpg",
-    "full_page_image": "assets/guide-p09.jpg"
+    "full_page_image": "assets/guide-p09.jpg",
+    "crop_image": "assets/crop-rom-13.jpg"
   },
   {
     "no": 14,
@@ -234,7 +234,7 @@ window.ROM_ITEMS = [
     "moving": "第一與第五蹠骨頭部背側連線。",
     "script": "現在要測量橫跗關節前足外翻角度。請你坐好，距下關節保持正中，我會固定跟骨與距骨，將前足往外翻。量角器中心放在第一蹠骨頭外側，固定臂平行小腿前側中線，移動臂對齊第一與第五蹠骨頭背側連線。終點感覺是 firm。",
     "note": "",
-    "crop_image": "assets/crop-rom-14.jpg",
-    "full_page_image": "assets/guide-p09.jpg"
+    "full_page_image": "assets/guide-p09.jpg",
+    "crop_image": "assets/crop-rom-14.jpg"
   }
 ];
