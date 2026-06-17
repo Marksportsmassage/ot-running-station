@@ -4,7 +4,7 @@ window.ROM_ITEMS = [
     "title": "Measure Hip Flexion ROM",
     "english": "髖關節屈曲 ROM 測量",
     "source": "ROM指引 p.7",
-    "page_image": "assets/guide-p07.jpg",
+    "page_image": "assets/crop-rom-01.jpg",
     "position": "躺姿，髖關節正中，膝彎曲。",
     "fixation": "固定骨盆，避免骨盆後傾或身體代償。",
     "endfeel": "soft / firm",
@@ -12,14 +12,16 @@ window.ROM_ITEMS = [
     "stationary": "骨盆外側中線。",
     "moving": "股骨外側中線，對齊股骨外上髁。",
     "script": "現在要測量髖關節屈曲角度。請你躺好、膝蓋彎曲，我會固定骨盆，讓大腿往胸口方向活動。量角器中心放在大轉子，固定臂對齊骨盆外側中線，移動臂對齊股骨外側中線。終點感覺是 soft / firm。",
-    "note": ""
+    "note": "",
+    "crop_image": "assets/crop-rom-01.jpg",
+    "full_page_image": "assets/guide-p07.jpg"
   },
   {
     "no": 2,
     "title": "Measure Hip Abduction ROM",
     "english": "髖關節外展 ROM 測量",
     "source": "ROM指引 p.7",
-    "page_image": "assets/guide-p07.jpg",
+    "page_image": "assets/crop-rom-02.jpg",
     "position": "躺姿，髖正中，膝伸直。",
     "fixation": "固定骨盆，避免骨盆側移或旋轉。",
     "endfeel": "firm",
@@ -27,14 +29,16 @@ window.ROM_ITEMS = [
     "stationary": "平行 ASIS 到 ASIS 的假想線。",
     "moving": "股骨與髕骨前側中線。",
     "script": "現在要測量髖關節外展角度。請你躺好、膝蓋打直，我會固定骨盆，將腿往外側打開。量角器中心放在 ASIS，固定臂平行兩側 ASIS 的連線，移動臂對齊股骨與髕骨前側中線。終點感覺是 firm。",
-    "note": ""
+    "note": "",
+    "crop_image": "assets/crop-rom-02.jpg",
+    "full_page_image": "assets/guide-p07.jpg"
   },
   {
     "no": 3,
     "title": "Measure Hip Adduction ROM",
     "english": "髖關節內收 ROM 測量",
     "source": "ROM指引 p.7",
-    "page_image": "assets/guide-p07.jpg",
+    "page_image": "assets/crop-rom-03.jpg",
     "position": "躺姿，髖正中，膝伸直，對側髖外展。",
     "fixation": "固定骨盆，避免骨盆側移或旋轉。",
     "endfeel": "firm",
@@ -42,14 +46,16 @@ window.ROM_ITEMS = [
     "stationary": "平行 ASIS 到 ASIS 的假想線。",
     "moving": "股骨與髕骨前側中線。",
     "script": "現在要測量髖關節內收角度。請你躺好，對側腳先外展讓出空間，我會固定骨盆，將測試腳往身體內側帶。量角器中心放在 ASIS，固定臂平行兩側 ASIS 的連線，移動臂對齊股骨與髕骨前側中線。終點感覺是 firm。",
-    "note": ""
+    "note": "",
+    "crop_image": "assets/crop-rom-03.jpg",
+    "full_page_image": "assets/guide-p07.jpg"
   },
   {
     "no": 4,
     "title": "Measure Hip Internal Rotation ROM",
     "english": "髖關節內轉 ROM 測量",
     "source": "ROM指引 p.7",
-    "page_image": "assets/guide-p07.jpg",
+    "page_image": "assets/crop-rom-04.jpg",
     "position": "坐姿，髖屈曲 90 度，股骨下墊毛巾。",
     "fixation": "固定股骨遠端，避免髖關節代償。",
     "endfeel": "firm",
@@ -57,14 +63,16 @@ window.ROM_ITEMS = [
     "stationary": "垂直地面。",
     "moving": "下方小腿前側中線，對齊脛骨嵴與內外踝中線。",
     "script": "現在要測量髖內轉角度。請你坐好，髖膝約 90 度，我會固定大腿，讓小腿往外側移動，這代表髖內轉。量角器中心放在髕骨前側，固定臂垂直地面，移動臂對齊小腿前側中線。終點感覺是 firm。",
-    "note": ""
+    "note": "",
+    "crop_image": "assets/crop-rom-04.jpg",
+    "full_page_image": "assets/guide-p07.jpg"
   },
   {
     "no": 5,
     "title": "Measure Hip External Rotation ROM",
     "english": "髖關節外轉 ROM 測量",
     "source": "ROM指引 p.7",
-    "page_image": "assets/guide-p07.jpg",
+    "page_image": "assets/crop-rom-05.jpg",
     "position": "坐姿，髖屈曲 90 度，股骨下墊毛巾。",
     "fixation": "固定股骨遠端，避免髖關節代償。",
     "endfeel": "firm",
@@ -72,14 +80,16 @@ window.ROM_ITEMS = [
     "stationary": "垂直地面。",
     "moving": "下方小腿前側中線，對齊脛骨嵴與內外踝中線。",
     "script": "現在要測量髖外轉角度。請你坐好，髖膝約 90 度，我會固定大腿，讓小腿往內側移動，這代表髖外轉。量角器中心放在髕骨前側，固定臂垂直地面，移動臂對齊小腿前側中線。終點感覺是 firm。",
-    "note": ""
+    "note": "",
+    "crop_image": "assets/crop-rom-05.jpg",
+    "full_page_image": "assets/guide-p07.jpg"
   },
   {
     "no": 6,
     "title": "Measure Knee Flexion ROM",
     "english": "膝關節屈曲 ROM 測量",
     "source": "ROM指引 p.8",
-    "page_image": "assets/guide-p08.jpg",
+    "page_image": "assets/crop-rom-06.jpg",
     "position": "躺姿，髖與膝起始伸直，踝關節下墊毛巾。",
     "fixation": "固定股骨，避免髖關節代償。",
     "endfeel": "soft / firm",
@@ -87,14 +97,16 @@ window.ROM_ITEMS = [
     "stationary": "股骨外側中線，對齊股骨外上髁與大轉子。",
     "moving": "腓骨外側中線，對齊外踝與腓骨頭。",
     "script": "現在要測量膝關節屈曲角度。請你躺好，我會固定大腿，讓膝蓋彎曲。量角器中心放在股骨外上髁，固定臂對齊股骨外側中線，移動臂對齊腓骨外側中線。終點感覺是 soft / firm。",
-    "note": ""
+    "note": "",
+    "crop_image": "assets/crop-rom-06.jpg",
+    "full_page_image": "assets/guide-p08.jpg"
   },
   {
     "no": 7,
     "title": "Measure Ankle Dorsiflexion ROM",
     "english": "踝關節背屈 ROM 測量",
     "source": "ROM指引 p.8",
-    "page_image": "assets/guide-p08.jpg",
+    "page_image": "assets/crop-rom-07.jpg",
     "position": "坐姿非承重或站姿承重；髖和膝 90 度，足正中。",
     "fixation": "固定脛骨與腓骨。",
     "endfeel": "firm",
@@ -102,14 +114,16 @@ window.ROM_ITEMS = [
     "stationary": "腓骨外側中線，對齊腓骨頭。",
     "moving": "平行第 5 蹠骨外側中線。",
     "script": "現在要測量踝關節背屈角度。請你坐好，髖膝約 90 度，腳保持正中，我會固定小腿，讓腳往上勾。量角器中心放在外踝，固定臂對齊腓骨外側中線，移動臂平行第五蹠骨外側中線。終點感覺是 firm。",
-    "note": ""
+    "note": "",
+    "crop_image": "assets/crop-rom-07.jpg",
+    "full_page_image": "assets/guide-p08.jpg"
   },
   {
     "no": 8,
     "title": "Measure Ankle Plantarflexion ROM",
     "english": "踝關節蹠屈 ROM 測量",
     "source": "ROM指引 p.8",
-    "page_image": "assets/guide-p08.jpg",
+    "page_image": "assets/crop-rom-08.jpg",
     "position": "同踝背屈非承重姿勢；髖和膝 90 度，足正中。",
     "fixation": "固定脛骨與腓骨。",
     "endfeel": "firm / hard",
@@ -117,14 +131,16 @@ window.ROM_ITEMS = [
     "stationary": "腓骨外側中線，對齊腓骨頭。",
     "moving": "平行第 5 蹠骨外側中線。",
     "script": "現在要測量踝關節蹠屈角度。請你坐好，腳保持正中，我會固定小腿，讓腳往下踩。量角器中心放在外踝，固定臂對齊腓骨外側中線，移動臂平行第五蹠骨外側中線。終點感覺是 firm / hard。",
-    "note": ""
+    "note": "",
+    "crop_image": "assets/crop-rom-08.jpg",
+    "full_page_image": "assets/guide-p08.jpg"
   },
   {
     "no": 9,
     "title": "Measure Tarsal Joints Forefoot Inversion ROM",
     "english": "前足前跗內翻 ROM 測量",
     "source": "ROM指引 p.9",
-    "page_image": "assets/guide-p09.jpg",
+    "page_image": "assets/crop-rom-09.jpg",
     "position": "坐姿，髖與膝 90 度。",
     "fixation": "固定脛骨與腓骨。",
     "endfeel": "firm",
@@ -132,14 +148,16 @@ window.ROM_ITEMS = [
     "stationary": "下肢前側中線，對齊脛骨粗隆。",
     "moving": "第二蹠骨前側中線。",
     "script": "現在要測量前足前跗內翻角度。請你坐好，髖膝約 90 度，我會固定小腿，將前足往內翻。量角器中心放在內外踝中間前側附近，固定臂對齊下肢前側中線，移動臂對齊第二蹠骨前側中線。終點感覺是 firm。",
-    "note": ""
+    "note": "",
+    "crop_image": "assets/crop-rom-09.jpg",
+    "full_page_image": "assets/guide-p09.jpg"
   },
   {
     "no": 10,
     "title": "Measure Tarsal Joints Forefoot Eversion ROM",
     "english": "前足前跗外翻 ROM 測量",
     "source": "ROM指引 p.9",
-    "page_image": "assets/guide-p09.jpg",
+    "page_image": "assets/crop-rom-10.jpg",
     "position": "坐姿，髖與膝 90 度。",
     "fixation": "固定脛骨與腓骨。",
     "endfeel": "hard / firm",
@@ -147,14 +165,16 @@ window.ROM_ITEMS = [
     "stationary": "下肢前側中線，對齊脛骨粗隆。",
     "moving": "第二蹠骨前側中線。",
     "script": "現在要測量前足前跗外翻角度。請你坐好，我會固定小腿，將前足往外翻。量角器中心放在內外踝中間前側附近，固定臂對齊下肢前側中線，移動臂對齊第二蹠骨前側中線。終點感覺是 hard / firm。",
-    "note": ""
+    "note": "",
+    "crop_image": "assets/crop-rom-10.jpg",
+    "full_page_image": "assets/guide-p09.jpg"
   },
   {
     "no": 11,
     "title": "Measure Subtalar Joint Rearfoot Inversion ROM",
     "english": "距下關節後足內翻 ROM 測量",
     "source": "ROM指引 p.9",
-    "page_image": "assets/guide-p09.jpg",
+    "page_image": "assets/crop-rom-11.jpg",
     "position": "趴姿，腳垂出床面，髖和膝正中。",
     "fixation": "固定脛骨與腓骨。",
     "endfeel": "firm",
@@ -162,14 +182,16 @@ window.ROM_ITEMS = [
     "stationary": "下方小腿後側中線。",
     "moving": "跟骨後側中線。",
     "script": "現在要測量距下關節後足內翻角度。請你趴著，腳垂出床緣，我會固定小腿，讓跟骨往內翻。量角器中心放在後側內外踝中間，固定臂對齊小腿後側中線，移動臂對齊跟骨後側中線。終點感覺是 firm。",
-    "note": ""
+    "note": "",
+    "crop_image": "assets/crop-rom-11.jpg",
+    "full_page_image": "assets/guide-p09.jpg"
   },
   {
     "no": 12,
     "title": "Measure Subtalar Joint Rearfoot Eversion ROM",
     "english": "距下關節後足外翻 ROM 測量",
     "source": "ROM指引 p.9",
-    "page_image": "assets/guide-p09.jpg",
+    "page_image": "assets/crop-rom-12.jpg",
     "position": "趴姿，腳垂出床面，髖和膝正中。",
     "fixation": "固定脛骨與腓骨。",
     "endfeel": "hard / firm",
@@ -177,14 +199,16 @@ window.ROM_ITEMS = [
     "stationary": "下方小腿後側中線。",
     "moving": "跟骨後側中線。",
     "script": "現在要測量距下關節後足外翻角度。請你趴著，腳垂出床緣，我會固定小腿，讓跟骨往外翻。量角器中心放在後側內外踝中間，固定臂對齊小腿後側中線，移動臂對齊跟骨後側中線。終點感覺是 hard / firm。",
-    "note": ""
+    "note": "",
+    "crop_image": "assets/crop-rom-12.jpg",
+    "full_page_image": "assets/guide-p09.jpg"
   },
   {
     "no": 13,
     "title": "Measure Transverse Tarsal Joint Forefoot Inversion ROM",
     "english": "橫跗關節前足內翻 ROM 測量",
     "source": "ROM指引 p.9",
-    "page_image": "assets/guide-p09.jpg",
+    "page_image": "assets/crop-rom-13.jpg",
     "position": "坐姿，髖和膝 90 度，距下關節正中。",
     "fixation": "固定跟骨。",
     "endfeel": "firm",
@@ -192,14 +216,16 @@ window.ROM_ITEMS = [
     "stationary": "平行小腿前側中線。",
     "moving": "第一與第五蹠骨頭部背側連線。",
     "script": "現在要測量橫跗關節前足內翻角度。請你坐好，距下關節保持正中，我會固定跟骨，將前足往內翻。量角器中心放在第五蹠骨頭外側，固定臂平行小腿前側中線，移動臂對齊第一與第五蹠骨頭背側連線。終點感覺是 firm。",
-    "note": ""
+    "note": "",
+    "crop_image": "assets/crop-rom-13.jpg",
+    "full_page_image": "assets/guide-p09.jpg"
   },
   {
     "no": 14,
     "title": "Measure Transverse Tarsal Joint Forefoot Eversion ROM",
     "english": "橫跗關節前足外翻 ROM 測量",
     "source": "ROM指引 p.9",
-    "page_image": "assets/guide-p09.jpg",
+    "page_image": "assets/crop-rom-14.jpg",
     "position": "坐姿，髖和膝 90 度，距下關節正中。",
     "fixation": "固定跟骨與距骨。",
     "endfeel": "firm",
@@ -207,6 +233,8 @@ window.ROM_ITEMS = [
     "stationary": "平行小腿前側中線。",
     "moving": "第一與第五蹠骨頭部背側連線。",
     "script": "現在要測量橫跗關節前足外翻角度。請你坐好，距下關節保持正中，我會固定跟骨與距骨，將前足往外翻。量角器中心放在第一蹠骨頭外側，固定臂平行小腿前側中線，移動臂對齊第一與第五蹠骨頭背側連線。終點感覺是 firm。",
-    "note": ""
+    "note": "",
+    "crop_image": "assets/crop-rom-14.jpg",
+    "full_page_image": "assets/guide-p09.jpg"
   }
 ];
