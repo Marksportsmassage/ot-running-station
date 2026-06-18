@@ -1,0 +1,1 @@
+window.PA_GALLERY = [];
