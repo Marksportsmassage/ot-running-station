@@ -4,173 +4,173 @@ window.MMT_VIDEO_LINKS = {
   "1": {
     "url": "https://www.youtube.com/watch?v=aGRAx7yDZ_k&list=PL_kdRB8mNB8DMOKViLYpcnlzD450pPXW-&index=3&t=1319s",
     "start": "00:10",
-    "end": "04:30",
+    "end": "02:10",
     "note": "腕屈伸；腕屈曲1分觸診約01:50–02:10。"
   },
   "2": {
     "url": "https://www.youtube.com/watch?v=aGRAx7yDZ_k&list=PL_kdRB8mNB8DMOKViLYpcnlzD450pPXW-&index=3&t=1319s",
-    "start": "00:10",
+    "start": "02:10",
     "end": "04:30",
     "note": "腕屈伸；腕伸展1分觸診為手背2～5指伸肌腱。"
   },
   "3": {
-    "url": "",
+    "url": "https://youtu.be/hiCLX2L5HZ4?si=buhGVsK6wd_rMHfQ",
     "start": "00:30",
     "end": "02:40",
     "note": "髖屈；1分先把腿拿起讓髖屈肌縮短後觸診。"
   },
   "4": {
-    "url": "",
+    "url": "https://youtu.be/hiCLX2L5HZ4?si=buhGVsK6wd_rMHfQ",
     "start": "03:02",
     "end": "04:20",
     "note": "縫匠肌；坐姿踢毽子，反方向往下往內給力。"
   },
   "5": {
-    "url": "",
+    "url": "https://youtu.be/hiCLX2L5HZ4?si=buhGVsK6wd_rMHfQ",
     "start": "04:25",
     "end": "07:25",
     "note": "髖伸趴式；膝伸直＝全髖伸、膕旁肌較主導。"
   },
   "6": {
-    "url": "",
+    "url": "https://youtu.be/hiCLX2L5HZ4?si=buhGVsK6wd_rMHfQ",
     "start": "04:25",
     "end": "11:20",
     "note": "髖伸膝屈、改良式與仰臥式髖伸；膝屈90度較偏臀大肌。"
   },
   "7": {
-    "url": "",
+    "url": "https://youtu.be/hiCLX2L5HZ4?si=buhGVsK6wd_rMHfQ",
     "start": "11:30",
     "end": "14:30",
     "note": "髖外展；髖伸版偏臀中肌。"
   },
   "8": {
-    "url": "",
+    "url": "https://youtu.be/hiCLX2L5HZ4?si=buhGVsK6wd_rMHfQ",
     "start": "11:30",
     "end": "14:30",
     "note": "髖屈45度外展；髖屈版偏闊筋膜張肌。"
   },
   "9": {
-    "url": "",
+    "url": "https://youtu.be/hiCLX2L5HZ4?si=buhGVsK6wd_rMHfQ",
     "start": "14:50",
     "end": "16:20",
     "note": "髖內收；上方腿托開，下方腿往上找上方腿。"
   },
   "10": {
-    "url": "",
+    "url": "https://youtu.be/hiCLX2L5HZ4?si=buhGVsK6wd_rMHfQ",
     "start": "16:40",
     "end": "19:00",
     "note": "髖外旋；小腿往內轉＝髖外旋。"
   },
   "11": {
-    "url": "",
+    "url": "https://youtu.be/hiCLX2L5HZ4?si=buhGVsK6wd_rMHfQ",
     "start": "17:12",
     "end": "19:00",
     "note": "髖內轉；小腿往外轉＝髖內轉。"
   },
   "12": {
-    "url": "",
+    "url": "https://youtu.be/hiCLX2L5HZ4?si=buhGVsK6wd_rMHfQ",
     "start": "19:18",
     "end": "21:00",
     "note": "膝屈曲；趴姿，小腿內轉測內側膕旁、外轉測股二頭。"
   },
   "13": {
-    "url": "",
+    "url": "https://youtu.be/hiCLX2L5HZ4?si=buhGVsK6wd_rMHfQ",
     "start": "21:11",
     "end": "22:50",
     "note": "膝伸直；坐姿踢腿，1分用毛巾讓膝蓋下壓。"
   },
   "14": {
-    "url": "",
+    "url": "https://youtu.be/hiCLX2L5HZ4?si=buhGVsK6wd_rMHfQ",
     "start": "23:00",
     "end": "23:40",
     "note": "踝蹠屈；3分單腳腳跟離地1下，5分25下。"
   },
   "15": {
-    "url": "",
+    "url": "https://youtu.be/hiCLX2L5HZ4?si=buhGVsK6wd_rMHfQ",
     "start": "23:50",
-    "end": "",
+    "end": "24:40",
     "note": "足背屈＋內翻；阻力往下＋往外。"
   },
   "16": {
-    "url": "",
+    "url": "https://youtu.be/hiCLX2L5HZ4?si=buhGVsK6wd_rMHfQ",
     "start": "24:55",
-    "end": "",
+    "end": "25:40",
     "note": "足純內翻；觸診脛骨後肌/內踝後方。"
   },
   "17": {
-    "url": "",
+    "url": "https://youtu.be/hiCLX2L5HZ4?si=buhGVsK6wd_rMHfQ",
     "start": "25:40",
-    "end": "",
+    "end": "27:00",
     "note": "足外翻＋微蹠屈；阻力往上＋往內。"
   },
   "18": {
-    "url": "",
+    "url": "https://youtu.be/Q2iTsdqElyk?si=5ZHM0F3es9Z2SxnX",
     "start": "00:04",
     "end": "01:16",
     "note": "腳趾MTP屈曲：先大拇趾，再後四趾；阻力放近端趾骨下方。"
   },
   "19": {
-    "url": "",
+    "url": "https://youtu.be/Q2iTsdqElyk?si=5ZHM0F3es9Z2SxnX",
     "start": "01:54",
     "end": "",
     "note": "拇趾/腳趾PIP、DIP或IP屈曲；阻力放相對趾骨下方。"
   },
   "20": {
-    "url": "",
+    "url": "https://youtu.be/Q2iTsdqElyk?si=5ZHM0F3es9Z2SxnX",
     "start": "02:45",
     "end": "",
     "note": "拇趾/腳趾MTP/IP伸直；阻力放近端趾骨背側。"
   },
   "21": {
-    "url": "",
+    "url": "https://youtu.be/Q2iTsdqElyk?si=5ZHM0F3es9Z2SxnX",
     "start": "03:40",
     "end": "05:40",
     "note": "頭部伸直；只動後腦杓，不要下頸椎後縮。"
   },
   "22": {
-    "url": "",
+    "url": "https://youtu.be/Q2iTsdqElyk?si=5ZHM0F3es9Z2SxnX",
     "start": "05:40",
     "end": "07:05",
     "note": "頸部伸直；眼睛視角不要動，下頸椎往上頂。"
   },
   "23": {
-    "url": "",
+    "url": "https://youtu.be/Q2iTsdqElyk?si=5ZHM0F3es9Z2SxnX",
     "start": "07:15",
     "end": "08:00",
     "note": "頭部屈曲；頭貼床，做縮下巴。"
   },
   "24": {
-    "url": "",
+    "url": "https://youtu.be/Q2iTsdqElyk?si=5ZHM0F3es9Z2SxnX",
     "start": "08:10",
     "end": "11:40",
     "note": "頸部屈曲與單側SCM；頭離床＝頸屈曲，旋轉＋耳朵離床測單側SCM。"
   },
   "25": {
-    "url": "",
+    "url": "https://youtu.be/Q2iTsdqElyk?si=5ZHM0F3es9Z2SxnX",
     "start": "10:07",
     "end": "",
     "note": "頸部轉動；下巴維持中立。"
   },
   "26": {
-    "url": "",
+    "url": "https://youtu.be/Q2iTsdqElyk?si=5ZHM0F3es9Z2SxnX",
     "start": "11:43",
     "end": "",
     "note": "軀幹伸直；腰椎與胸椎都要做。"
   },
   "27": {
-    "url": "",
+    "url": "https://youtu.be/Q2iTsdqElyk?si=5ZHM0F3es9Z2SxnX",
     "start": "15:18",
     "end": "",
     "note": "骨盆上抬；骨盆找肋骨下緣，不要側彎。"
   },
   "28": {
-    "url": "",
+    "url": "https://youtu.be/Q2iTsdqElyk?si=5ZHM0F3es9Z2SxnX",
     "start": "16:41",
     "end": "",
     "note": "軀幹屈曲；評分看手的位置與肩胛骨下角是否離床。"
   },
   "29": {
-    "url": "",
+    "url": "https://youtu.be/Q2iTsdqElyk?si=5ZHM0F3es9Z2SxnX",
     "start": "19:09",
     "end": "",
     "note": "軀幹轉動；測腹外斜與腹內斜。"
